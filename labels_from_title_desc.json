@@ -1,0 +1,5467 @@
+[
+  {
+    "video_id": "TWQuGvQEC7k",
+    "label": "neutral",
+    "score": 0.8724339604377747
+  },
+  {
+    "video_id": "twZ4y7byltE",
+    "label": "neutral",
+    "score": 0.9400874376296997
+  },
+  {
+    "video_id": "tUMXiSI722Y",
+    "label": "negative",
+    "score": 0.540291965007782
+  },
+  {
+    "video_id": "TVh-64oMoFA",
+    "label": "negative",
+    "score": 0.7364487648010254
+  },
+  {
+    "video_id": "twgyO7oP_vA",
+    "label": "neutral",
+    "score": 0.9211682677268982
+  },
+  {
+    "video_id": "tw29wuhknLQ",
+    "label": "neutral",
+    "score": 0.8698248267173767
+  },
+  {
+    "video_id": "TuIbmQka7I4",
+    "label": "negative",
+    "score": 0.7422473430633545
+  },
+  {
+    "video_id": "TSsr5_6ctpM",
+    "label": "neutral",
+    "score": 0.5655280947685242
+  },
+  {
+    "video_id": "tqfGcWdzL-M",
+    "label": "neutral",
+    "score": 0.8565388917922974
+  },
+  {
+    "video_id": "TSiFnz1EZDY",
+    "label": "neutral",
+    "score": 0.7131844758987427
+  },
+  {
+    "video_id": "To17GxUtTO0",
+    "label": "neutral",
+    "score": 0.8657635450363159
+  },
+  {
+    "video_id": "tQe_ErZn0cU",
+    "label": "negative",
+    "score": 0.6286169290542603
+  },
+  {
+    "video_id": "tsEzSRjBZd0",
+    "label": "neutral",
+    "score": 0.9513030052185059
+  },
+  {
+    "video_id": "Tm_h4trKNyg",
+    "label": "negative",
+    "score": 0.5687581896781921
+  },
+  {
+    "video_id": "TO578cVRmpM",
+    "label": "neutral",
+    "score": 0.9399315714836121
+  },
+  {
+    "video_id": "tnb5AtqwL5c",
+    "label": "neutral",
+    "score": 0.6417456865310669
+  },
+  {
+    "video_id": "tgi0MaPN1f4",
+    "label": "negative",
+    "score": 0.7235206365585327
+  },
+  {
+    "video_id": "ThIZGdUtaXw",
+    "label": "neutral",
+    "score": 0.6242534518241882
+  },
+  {
+    "video_id": "TFBYVi56CjA",
+    "label": "neutral",
+    "score": 0.5673249363899231
+  },
+  {
+    "video_id": "tja-PTooJBE",
+    "label": "neutral",
+    "score": 0.8464120030403137
+  },
+  {
+    "video_id": "TeMEdsuZ8U4",
+    "label": "neutral",
+    "score": 0.9511802792549133
+  },
+  {
+    "video_id": "tgBTspqA5nY",
+    "label": "neutral",
+    "score": 0.9229896664619446
+  },
+  {
+    "video_id": "tfWJ9zlOvps",
+    "label": "negative",
+    "score": 0.8795223236083984
+  },
+  {
+    "video_id": "TjM4V2L-KBA",
+    "label": "positive",
+    "score": 0.665739893913269
+  },
+  {
+    "video_id": "TDe_f9HOj-I",
+    "label": "neutral",
+    "score": 0.5160682797431946
+  },
+  {
+    "video_id": "TEa6Yg5206k",
+    "label": "neutral",
+    "score": 0.596847653388977
+  },
+  {
+    "video_id": "tC5J8a6vTkM",
+    "label": "neutral",
+    "score": 0.6335232257843018
+  },
+  {
+    "video_id": "Ta3IYxi7S7w",
+    "label": "neutral",
+    "score": 0.9376054406166077
+  },
+  {
+    "video_id": "TBIW1QbVtc0",
+    "label": "negative",
+    "score": 0.7921392321586609
+  },
+  {
+    "video_id": "T7ipJs1c4FM",
+    "label": "neutral",
+    "score": 0.8369805812835693
+  },
+  {
+    "video_id": "TczMuhFXxEc",
+    "label": "neutral",
+    "score": 0.507643461227417
+  },
+  {
+    "video_id": "TATgGoUUK-4",
+    "label": "neutral",
+    "score": 0.7645537257194519
+  },
+  {
+    "video_id": "tadNX_zEhoY",
+    "label": "negative",
+    "score": 0.7899062037467957
+  },
+  {
+    "video_id": "t6QwSvS97ss",
+    "label": "neutral",
+    "score": 0.9249311089515686
+  },
+  {
+    "video_id": "T3y1g0rZCaM",
+    "label": "neutral",
+    "score": 0.5127320289611816
+  },
+  {
+    "video_id": "szOqCA_Sos0",
+    "label": "neutral",
+    "score": 0.6987588405609131
+  },
+  {
+    "video_id": "T6q74dsdRno",
+    "label": "neutral",
+    "score": 0.926563560962677
+  },
+  {
+    "video_id": "T2wf0CDD7Hc",
+    "label": "negative",
+    "score": 0.8377840518951416
+  },
+  {
+    "video_id": "T3vCa-QEmBc",
+    "label": "negative",
+    "score": 0.5871766209602356
+  },
+  {
+    "video_id": "sYZAq2QT-UA",
+    "label": "neutral",
+    "score": 0.6147962808609009
+  },
+  {
+    "video_id": "T5IFnt_HQcw",
+    "label": "neutral",
+    "score": 0.606921374797821
+  },
+  {
+    "video_id": "SXX3V3ZjGv4",
+    "label": "negative",
+    "score": 0.8665605783462524
+  },
+  {
+    "video_id": "sVMVvuwdGPM",
+    "label": "neutral",
+    "score": 0.6841607689857483
+  },
+  {
+    "video_id": "SYplWI52phU",
+    "label": "neutral",
+    "score": 0.9471941590309143
+  },
+  {
+    "video_id": "sRSppR1l0xo",
+    "label": "negative",
+    "score": 0.6361594200134277
+  },
+  {
+    "video_id": "St5X4-WZ_CE",
+    "label": "negative",
+    "score": 0.7406978607177734
+  },
+  {
+    "video_id": "ssygzMYkwrA",
+    "label": "neutral",
+    "score": 0.8141433000564575
+  },
+  {
+    "video_id": "srosiWBDWe0",
+    "label": "neutral",
+    "score": 0.6370319724082947
+  },
+  {
+    "video_id": "sOuP5fXEGow",
+    "label": "negative",
+    "score": 0.5766444206237793
+  },
+  {
+    "video_id": "srJg6ZIPmvU",
+    "label": "neutral",
+    "score": 0.773288369178772
+  },
+  {
+    "video_id": "sMWVm1GWJvA",
+    "label": "negative",
+    "score": 0.5373762845993042
+  },
+  {
+    "video_id": "SLzq52UnpwE",
+    "label": "neutral",
+    "score": 0.7477356791496277
+  },
+  {
+    "video_id": "Sr29FUDjs2s",
+    "label": "negative",
+    "score": 0.5957716703414917
+  },
+  {
+    "video_id": "Sm1zNam-TsY",
+    "label": "neutral",
+    "score": 0.7274482250213623
+  },
+  {
+    "video_id": "sNi1KbGCJ3o",
+    "label": "neutral",
+    "score": 0.8410343527793884
+  },
+  {
+    "video_id": "siEN0yt2yGk",
+    "label": "neutral",
+    "score": 0.7228867411613464
+  },
+  {
+    "video_id": "sh1LMx5ve5Y",
+    "label": "negative",
+    "score": 0.5200271010398865
+  },
+  {
+    "video_id": "SItt9r3pEPU",
+    "label": "neutral",
+    "score": 0.9145139455795288
+  },
+  {
+    "video_id": "skcCy8uJmkI",
+    "label": "neutral",
+    "score": 0.6832674145698547
+  },
+  {
+    "video_id": "sGOBFfexuk4",
+    "label": "negative",
+    "score": 0.6024864912033081
+  },
+  {
+    "video_id": "SIBbsWr9JY8",
+    "label": "neutral",
+    "score": 0.8094699382781982
+  },
+  {
+    "video_id": "SF--smQlMHU",
+    "label": "neutral",
+    "score": 0.7384558916091919
+  },
+  {
+    "video_id": "sePUuoG20Ro",
+    "label": "negative",
+    "score": 0.6554283499717712
+  },
+  {
+    "video_id": "sd_V2gvoSgc",
+    "label": "negative",
+    "score": 0.5268604755401611
+  },
+  {
+    "video_id": "SbC15ntbB6w",
+    "label": "neutral",
+    "score": 0.6083388328552246
+  },
+  {
+    "video_id": "SB-0C-PwS1E",
+    "label": "negative",
+    "score": 0.7911372184753418
+  },
+  {
+    "video_id": "SbH-Xw9KiEw",
+    "label": "neutral",
+    "score": 0.6072829961776733
+  },
+  {
+    "video_id": "s4rK607snbM",
+    "label": "negative",
+    "score": 0.6948671340942383
+  },
+  {
+    "video_id": "S-OdYEnEDi8",
+    "label": "neutral",
+    "score": 0.6674912571907043
+  },
+  {
+    "video_id": "S2jcNZo7x1E",
+    "label": "negative",
+    "score": 0.5921173691749573
+  },
+  {
+    "video_id": "S-1fD_XsVTY",
+    "label": "negative",
+    "score": 0.7917051911354065
+  },
+  {
+    "video_id": "rY34eyCWiaY",
+    "label": "negative",
+    "score": 0.49847421050071716
+  },
+  {
+    "video_id": "s3iVFJoxrYc",
+    "label": "neutral",
+    "score": 0.8882480263710022
+  },
+  {
+    "video_id": "S2Hpgo04HZI",
+    "label": "neutral",
+    "score": 0.9382609128952026
+  },
+  {
+    "video_id": "Rzj9k6mkclU",
+    "label": "negative",
+    "score": 0.5607332587242126
+  },
+  {
+    "video_id": "s-mAULcdH4Q",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "RXkxj_oh2kI",
+    "label": "negative",
+    "score": 0.623854398727417
+  },
+  {
+    "video_id": "RwVvVoxZeBM",
+    "label": "neutral",
+    "score": 0.8553503155708313
+  },
+  {
+    "video_id": "rRlyz-Syccs",
+    "label": "negative",
+    "score": 0.7955331802368164
+  },
+  {
+    "video_id": "rQsCSLKohVk",
+    "label": "neutral",
+    "score": 0.9019652605056763
+  },
+  {
+    "video_id": "RUzgphgBRzI",
+    "label": "neutral",
+    "score": 0.9124975204467773
+  },
+  {
+    "video_id": "RqUZ2Fv9l8w",
+    "label": "neutral",
+    "score": 0.955245852470398
+  },
+  {
+    "video_id": "RpNgroQ3rHI",
+    "label": "negative",
+    "score": 0.7302895188331604
+  },
+  {
+    "video_id": "rUOQ00lpwQQ",
+    "label": "neutral",
+    "score": 0.815986156463623
+  },
+  {
+    "video_id": "rqrtGu70FEI",
+    "label": "negative",
+    "score": 0.6850788593292236
+  },
+  {
+    "video_id": "RPLOGDPqcXw",
+    "label": "neutral",
+    "score": 0.9022012948989868
+  },
+  {
+    "video_id": "RLrrKTULSB4",
+    "label": "neutral",
+    "score": 0.5758240222930908
+  },
+  {
+    "video_id": "rMCZNEI65Jc",
+    "label": "neutral",
+    "score": 0.8456101417541504
+  },
+  {
+    "video_id": "rL-Uli0UaLQ",
+    "label": "positive",
+    "score": 0.932483971118927
+  },
+  {
+    "video_id": "rNeMNlTKd48",
+    "label": "neutral",
+    "score": 0.9395439028739929
+  },
+  {
+    "video_id": "RO90IzjJ4GY",
+    "label": "neutral",
+    "score": 0.8599928617477417
+  },
+  {
+    "video_id": "rlvEi1YWFI8",
+    "label": "neutral",
+    "score": 0.9235256910324097
+  },
+  {
+    "video_id": "rkWDvJs5-zY",
+    "label": "neutral",
+    "score": 0.5822416543960571
+  },
+  {
+    "video_id": "RJB91j_EEzI",
+    "label": "neutral",
+    "score": 0.6704829335212708
+  },
+  {
+    "video_id": "rGbX7XuxuQI",
+    "label": "neutral",
+    "score": 0.9309333562850952
+  },
+  {
+    "video_id": "RkcXtmlSlZY",
+    "label": "negative",
+    "score": 0.5102943778038025
+  },
+  {
+    "video_id": "RFTf-c3ua9c",
+    "label": "negative",
+    "score": 0.7410279512405396
+  },
+  {
+    "video_id": "RdpMhjh2dx8",
+    "label": "positive",
+    "score": 0.8011924028396606
+  },
+  {
+    "video_id": "RKDQdHBW2jA",
+    "label": "neutral",
+    "score": 0.5430147051811218
+  },
+  {
+    "video_id": "rfgwq5jp3-8",
+    "label": "neutral",
+    "score": 0.8359321355819702
+  },
+  {
+    "video_id": "re5XKpy4AH4",
+    "label": "neutral",
+    "score": 0.9120399951934814
+  },
+  {
+    "video_id": "RcOTGB8ftbk",
+    "label": "negative",
+    "score": 0.7217137217521667
+  },
+  {
+    "video_id": "R5kWsd7ZasU",
+    "label": "neutral",
+    "score": 0.7791020274162292
+  },
+  {
+    "video_id": "r-qrtJ43HCI",
+    "label": "positive",
+    "score": 0.8059939742088318
+  },
+  {
+    "video_id": "r599eVo0XLM",
+    "label": "neutral",
+    "score": 0.9311851263046265
+  },
+  {
+    "video_id": "Q_h8pZN8KQ0",
+    "label": "negative",
+    "score": 0.6523685455322266
+  },
+  {
+    "video_id": "RcoirUw1358",
+    "label": "neutral",
+    "score": 0.8948594927787781
+  },
+  {
+    "video_id": "qzYTN4lfEn4",
+    "label": "neutral",
+    "score": 0.8228966593742371
+  },
+  {
+    "video_id": "rbhw-Bmj1NA",
+    "label": "neutral",
+    "score": 0.8451305627822876
+  },
+  {
+    "video_id": "qZwgRqc07ds",
+    "label": "negative",
+    "score": 0.6706916093826294
+  },
+  {
+    "video_id": "QyBm4J-HfCs",
+    "label": "negative",
+    "score": 0.6731921434402466
+  },
+  {
+    "video_id": "qypwBrLJxFY",
+    "label": "negative",
+    "score": 0.6540177464485168
+  },
+  {
+    "video_id": "Qwf9Gwa5s4U",
+    "label": "negative",
+    "score": 0.6647634506225586
+  },
+  {
+    "video_id": "QUHQcPCYPi0",
+    "label": "negative",
+    "score": 0.7222071290016174
+  },
+  {
+    "video_id": "qxn24R809Ms",
+    "label": "neutral",
+    "score": 0.7025831341743469
+  },
+  {
+    "video_id": "QV4kZiLQ6FA",
+    "label": "neutral",
+    "score": 0.7036924958229065
+  },
+  {
+    "video_id": "qTYXu5qbu1k",
+    "label": "neutral",
+    "score": 0.5351195335388184
+  },
+  {
+    "video_id": "QvpBzpfIls8",
+    "label": "neutral",
+    "score": 0.9595492482185364
+  },
+  {
+    "video_id": "Quex2eFOn3A",
+    "label": "negative",
+    "score": 0.7540015578269958
+  },
+  {
+    "video_id": "QslGUSAgFwk",
+    "label": "neutral",
+    "score": 0.7975518703460693
+  },
+  {
+    "video_id": "QTgMKRx3FUg",
+    "label": "neutral",
+    "score": 0.6558825969696045
+  },
+  {
+    "video_id": "qRmjN5jQRBc",
+    "label": "negative",
+    "score": 0.7517589330673218
+  },
+  {
+    "video_id": "qP3ub1mCg1M",
+    "label": "negative",
+    "score": 0.614129900932312
+  },
+  {
+    "video_id": "qMH0ue1f1D4",
+    "label": "neutral",
+    "score": 0.5885472893714905
+  },
+  {
+    "video_id": "QMjbvVAsnPo",
+    "label": "negative",
+    "score": 0.698589026927948
+  },
+  {
+    "video_id": "QliL4CGc7iY",
+    "label": "neutral",
+    "score": 0.8731175065040588
+  },
+  {
+    "video_id": "QKUhWjPEHsM",
+    "label": "neutral",
+    "score": 0.5747150778770447
+  },
+  {
+    "video_id": "qH_vGaLgjL4",
+    "label": "neutral",
+    "score": 0.9042015671730042
+  },
+  {
+    "video_id": "QKnJFGUUMcY",
+    "label": "negative",
+    "score": 0.6742890477180481
+  },
+  {
+    "video_id": "qHHbkJMSy-c",
+    "label": "neutral",
+    "score": 0.6415190100669861
+  },
+  {
+    "video_id": "Qhbg5BgKGas",
+    "label": "negative",
+    "score": 0.6469948887825012
+  },
+  {
+    "video_id": "QJl72Pba1_Y",
+    "label": "neutral",
+    "score": 0.8235732316970825
+  },
+  {
+    "video_id": "QGzCUmVdoeY",
+    "label": "neutral",
+    "score": 0.9200018048286438
+  },
+  {
+    "video_id": "qgv1lwE5CY4",
+    "label": "neutral",
+    "score": 0.808754563331604
+  },
+  {
+    "video_id": "QgQKFVSNHRY",
+    "label": "neutral",
+    "score": 0.9162173271179199
+  },
+  {
+    "video_id": "QfM_2xlrzcc",
+    "label": "neutral",
+    "score": 0.941409707069397
+  },
+  {
+    "video_id": "Q9pX-pEAFT4",
+    "label": "negative",
+    "score": 0.8390955924987793
+  },
+  {
+    "video_id": "qcBrK1G8WDI",
+    "label": "negative",
+    "score": 0.8754433989524841
+  },
+  {
+    "video_id": "QBjb6Q8GWvg",
+    "label": "neutral",
+    "score": 0.8426628112792969
+  },
+  {
+    "video_id": "qBS_WogqFHw",
+    "label": "neutral",
+    "score": 0.7990890741348267
+  },
+  {
+    "video_id": "qc8e3XvtsNU",
+    "label": "neutral",
+    "score": 0.7906314134597778
+  },
+  {
+    "video_id": "Q8kqP7qjs0I",
+    "label": "negative",
+    "score": 0.5381408333778381
+  },
+  {
+    "video_id": "Q66AmhRuVe4",
+    "label": "negative",
+    "score": 0.5925326943397522
+  },
+  {
+    "video_id": "Q6RhY4V_gJ4",
+    "label": "neutral",
+    "score": 0.9516469240188599
+  },
+  {
+    "video_id": "Q5dklwlS9WY",
+    "label": "negative",
+    "score": 0.5517290830612183
+  },
+  {
+    "video_id": "Q3l65xc7_Ks",
+    "label": "neutral",
+    "score": 0.5035701990127563
+  },
+  {
+    "video_id": "Q0sxIkLvE-U",
+    "label": "neutral",
+    "score": 0.763901948928833
+  },
+  {
+    "video_id": "q1xImxQ43zM",
+    "label": "neutral",
+    "score": 0.9441562294960022
+  },
+  {
+    "video_id": "Q0VoEDBwimc",
+    "label": "neutral",
+    "score": 0.6234879493713379
+  },
+  {
+    "video_id": "P_LtE_LM9_Y",
+    "label": "negative",
+    "score": 0.9394238591194153
+  },
+  {
+    "video_id": "PZzaIHwGakY",
+    "label": "neutral",
+    "score": 0.9081706404685974
+  },
+  {
+    "video_id": "p_qbOXCBwYk",
+    "label": "neutral",
+    "score": 0.8842955231666565
+  },
+  {
+    "video_id": "pykpO5kQJ98",
+    "label": "neutral",
+    "score": 0.8584727644920349
+  },
+  {
+    "video_id": "PYsWHXPLp3Y",
+    "label": "neutral",
+    "score": 0.7376461625099182
+  },
+  {
+    "video_id": "pZYx64D3rpc",
+    "label": "negative",
+    "score": 0.5102275609970093
+  },
+  {
+    "video_id": "PVDJEkK0hhU",
+    "label": "positive",
+    "score": 0.7180754542350769
+  },
+  {
+    "video_id": "PtUZTtg2Rpc",
+    "label": "neutral",
+    "score": 0.9196482300758362
+  },
+  {
+    "video_id": "ptY4iz6V_Bg",
+    "label": "neutral",
+    "score": 0.8640300631523132
+  },
+  {
+    "video_id": "PUkiquHXHFc",
+    "label": "negative",
+    "score": 0.8667702078819275
+  },
+  {
+    "video_id": "pNXDCJO9tLA",
+    "label": "negative",
+    "score": 0.6856064796447754
+  },
+  {
+    "video_id": "PraVyqZjKl8",
+    "label": "neutral",
+    "score": 0.835322380065918
+  },
+  {
+    "video_id": "pNCG0ukcR4M",
+    "label": "negative",
+    "score": 0.7583474516868591
+  },
+  {
+    "video_id": "pNUWk9RGA4g",
+    "label": "negative",
+    "score": 0.6674450039863586
+  },
+  {
+    "video_id": "Pl67oZPE5YE",
+    "label": "neutral",
+    "score": 0.8557687401771545
+  },
+  {
+    "video_id": "pMaSuGFWEs0",
+    "label": "neutral",
+    "score": 0.808754563331604
+  },
+  {
+    "video_id": "PhrWJZO5LaE",
+    "label": "neutral",
+    "score": 0.8969783782958984
+  },
+  {
+    "video_id": "pkJmS6bS9Ps",
+    "label": "negative",
+    "score": 0.6038388013839722
+  },
+  {
+    "video_id": "pkL4lxFSXjc",
+    "label": "negative",
+    "score": 0.7179300785064697
+  },
+  {
+    "video_id": "pk1lFU8nMrs",
+    "label": "neutral",
+    "score": 0.8518590331077576
+  },
+  {
+    "video_id": "PJNmR9_oalw",
+    "label": "neutral",
+    "score": 0.9216940999031067
+  },
+  {
+    "video_id": "pivpyRNKZvo",
+    "label": "neutral",
+    "score": 0.9424517154693604
+  },
+  {
+    "video_id": "PKwLsAu-z10",
+    "label": "neutral",
+    "score": 0.8286030292510986
+  },
+  {
+    "video_id": "PF2i5vfU4TY",
+    "label": "negative",
+    "score": 0.7878099083900452
+  },
+  {
+    "video_id": "pFeuttTTseY",
+    "label": "neutral",
+    "score": 0.7579700350761414
+  },
+  {
+    "video_id": "PeSN-CTO25s",
+    "label": "neutral",
+    "score": 0.8840088248252869
+  },
+  {
+    "video_id": "PEKjRT-ZS-s",
+    "label": "positive",
+    "score": 0.5699270963668823
+  },
+  {
+    "video_id": "PABcIsaeIv0",
+    "label": "negative",
+    "score": 0.680766761302948
+  },
+  {
+    "video_id": "PC3mS1Il40U",
+    "label": "neutral",
+    "score": 0.8062131404876709
+  },
+  {
+    "video_id": "p9SerdKyxsw",
+    "label": "neutral",
+    "score": 0.9266176819801331
+  },
+  {
+    "video_id": "P9F9RbklPd0",
+    "label": "negative",
+    "score": 0.5501853227615356
+  },
+  {
+    "video_id": "oxibtGj8jp8",
+    "label": "neutral",
+    "score": 0.9257457256317139
+  },
+  {
+    "video_id": "oY3jgDIg1XQ",
+    "label": "negative",
+    "score": 0.6891552805900574
+  },
+  {
+    "video_id": "oxYuL-1C2N8",
+    "label": "negative",
+    "score": 0.8130731582641602
+  },
+  {
+    "video_id": "OweKvBsmvjg",
+    "label": "neutral",
+    "score": 0.8743925094604492
+  },
+  {
+    "video_id": "p5BCMuF8DYU",
+    "label": "neutral",
+    "score": 0.8804009556770325
+  },
+  {
+    "video_id": "P3lqs6haNx8",
+    "label": "neutral",
+    "score": 0.504558801651001
+  },
+  {
+    "video_id": "OWl-lurXbY4",
+    "label": "negative",
+    "score": 0.8587849736213684
+  },
+  {
+    "video_id": "OxQj_P_entU",
+    "label": "negative",
+    "score": 0.5041753649711609
+  },
+  {
+    "video_id": "OQ7u3y2c9BA",
+    "label": "neutral",
+    "score": 0.5348829627037048
+  },
+  {
+    "video_id": "oTmzyDrOTq0",
+    "label": "positive",
+    "score": 0.8271450400352478
+  },
+  {
+    "video_id": "oSRPqb9g6PE",
+    "label": "neutral",
+    "score": 0.5736648440361023
+  },
+  {
+    "video_id": "OpBhnyXecNI",
+    "label": "negative",
+    "score": 0.7258051633834839
+  },
+  {
+    "video_id": "oqjejYe42jA",
+    "label": "negative",
+    "score": 0.6750985383987427
+  },
+  {
+    "video_id": "oPIRKqFSLR8",
+    "label": "neutral",
+    "score": 0.8535271883010864
+  },
+  {
+    "video_id": "ol4tBPgMzZc",
+    "label": "neutral",
+    "score": 0.5307783484458923
+  },
+  {
+    "video_id": "ojXV046rhKw",
+    "label": "neutral",
+    "score": 0.7730494737625122
+  },
+  {
+    "video_id": "oCXZLuR7D1g",
+    "label": "negative",
+    "score": 0.7051571607589722
+  },
+  {
+    "video_id": "oK7nKTfAPDQ",
+    "label": "neutral",
+    "score": 0.6550412178039551
+  },
+  {
+    "video_id": "oFQyghm2oO8",
+    "label": "neutral",
+    "score": 0.7851523160934448
+  },
+  {
+    "video_id": "OHKVtT01GFE",
+    "label": "neutral",
+    "score": 0.5064481496810913
+  },
+  {
+    "video_id": "ONtr3MdvlKA",
+    "label": "negative",
+    "score": 0.7549683451652527
+  },
+  {
+    "video_id": "OhOxdGKvVXI",
+    "label": "neutral",
+    "score": 0.8788970112800598
+  },
+  {
+    "video_id": "opAuYbhAxA8",
+    "label": "neutral",
+    "score": 0.9598547220230103
+  },
+  {
+    "video_id": "ocvp7pxT-SE",
+    "label": "negative",
+    "score": 0.680281400680542
+  },
+  {
+    "video_id": "oBzh7fZ1V_c",
+    "label": "negative",
+    "score": 0.66252201795578
+  },
+  {
+    "video_id": "OAeI8ElqyPg",
+    "label": "neutral",
+    "score": 0.5336476564407349
+  },
+  {
+    "video_id": "Octc32dtPdQ",
+    "label": "neutral",
+    "score": 0.8718714118003845
+  },
+  {
+    "video_id": "OCQHq0X2Y9Y",
+    "label": "neutral",
+    "score": 0.797245442867279
+  },
+  {
+    "video_id": "oB4gTPg54Io",
+    "label": "positive",
+    "score": 0.5592424869537354
+  },
+  {
+    "video_id": "oBuo0XiibTc",
+    "label": "neutral",
+    "score": 0.8682839274406433
+  },
+  {
+    "video_id": "ocuvYWUes0U",
+    "label": "negative",
+    "score": 0.755576491355896
+  },
+  {
+    "video_id": "oanI-JPsYTQ",
+    "label": "neutral",
+    "score": 0.7308156490325928
+  },
+  {
+    "video_id": "OAkrO0NrgJg",
+    "label": "negative",
+    "score": 0.7068215608596802
+  },
+  {
+    "video_id": "O4-rPqnn7zU",
+    "label": "neutral",
+    "score": 0.5446109771728516
+  },
+  {
+    "video_id": "O9mOtdZ-nSk",
+    "label": "neutral",
+    "score": 0.9169990420341492
+  },
+  {
+    "video_id": "o59YBpPOE8E",
+    "label": "negative",
+    "score": 0.5563684105873108
+  },
+  {
+    "video_id": "O3WghNeLv5c",
+    "label": "neutral",
+    "score": 0.8578506112098694
+  },
+  {
+    "video_id": "o3wx4VXyd10",
+    "label": "neutral",
+    "score": 0.7458682060241699
+  },
+  {
+    "video_id": "o2BrsyQJfew",
+    "label": "negative",
+    "score": 0.765210747718811
+  },
+  {
+    "video_id": "NybAFHS65vw",
+    "label": "neutral",
+    "score": 0.9287266135215759
+  },
+  {
+    "video_id": "NwzaoomW_98",
+    "label": "neutral",
+    "score": 0.5819927453994751
+  },
+  {
+    "video_id": "NzslKbpf--A",
+    "label": "neutral",
+    "score": 0.6677679419517517
+  },
+  {
+    "video_id": "nvZyYun-G7o",
+    "label": "neutral",
+    "score": 0.9223758578300476
+  },
+  {
+    "video_id": "nvTDVURH9nM",
+    "label": "neutral",
+    "score": 0.8484089374542236
+  },
+  {
+    "video_id": "nS04_qVgeQI",
+    "label": "negative",
+    "score": 0.6201620697975159
+  },
+  {
+    "video_id": "nVndXOC8phU",
+    "label": "negative",
+    "score": 0.8836652636528015
+  },
+  {
+    "video_id": "nR5B-gXlHpY",
+    "label": "neutral",
+    "score": 0.7032287120819092
+  },
+  {
+    "video_id": "Nq2wYlWFucg",
+    "label": "neutral",
+    "score": 0.8977513313293457
+  },
+  {
+    "video_id": "Ntg_jktzSGU",
+    "label": "negative",
+    "score": 0.8010786175727844
+  },
+  {
+    "video_id": "NM5ffH1OL4c",
+    "label": "neutral",
+    "score": 0.6150950789451599
+  },
+  {
+    "video_id": "Nm3fCP4JCbg",
+    "label": "neutral",
+    "score": 0.5616105794906616
+  },
+  {
+    "video_id": "ndgJQKZ2QaU",
+    "label": "neutral",
+    "score": 0.7925880551338196
+  },
+  {
+    "video_id": "nAwMFfS-Es0",
+    "label": "negative",
+    "score": 0.6202142238616943
+  },
+  {
+    "video_id": "NbwWV1yA--E",
+    "label": "negative",
+    "score": 0.6783307194709778
+  },
+  {
+    "video_id": "nae9JXmED7w",
+    "label": "negative",
+    "score": 0.8545712232589722
+  },
+  {
+    "video_id": "N6qcsNmMnp4",
+    "label": "neutral",
+    "score": 0.8413369655609131
+  },
+  {
+    "video_id": "N6sPLGzBIYs",
+    "label": "neutral",
+    "score": 0.9285179376602173
+  },
+  {
+    "video_id": "N6KFzwajHpQ",
+    "label": "neutral",
+    "score": 0.7792971134185791
+  },
+  {
+    "video_id": "N3YAj5qPzis",
+    "label": "neutral",
+    "score": 0.696804940700531
+  },
+  {
+    "video_id": "naaLERHWNJQ",
+    "label": "negative",
+    "score": 0.567686915397644
+  },
+  {
+    "video_id": "n-8DaSPjeMI",
+    "label": "neutral",
+    "score": 0.8516460657119751
+  },
+  {
+    "video_id": "Mx6ocWGtFI8",
+    "label": "neutral",
+    "score": 0.7031566500663757
+  },
+  {
+    "video_id": "m_dhMSvUCIc",
+    "label": "neutral",
+    "score": 0.9149311184883118
+  },
+  {
+    "video_id": "MyDPtkaG0tU",
+    "label": "negative",
+    "score": 0.8265002965927124
+  },
+  {
+    "video_id": "MZAp-81bhuU",
+    "label": "neutral",
+    "score": 0.7282574772834778
+  },
+  {
+    "video_id": "My2gsSi7jO8",
+    "label": "neutral",
+    "score": 0.908638596534729
+  },
+  {
+    "video_id": "mwJUwDGZnYY",
+    "label": "neutral",
+    "score": 0.8557015061378479
+  },
+  {
+    "video_id": "mtggFxVYuss",
+    "label": "neutral",
+    "score": 0.8362110257148743
+  },
+  {
+    "video_id": "MqxHpmO5mAU",
+    "label": "neutral",
+    "score": 0.8157578706741333
+  },
+  {
+    "video_id": "Mv14aabg4mA",
+    "label": "neutral",
+    "score": 0.9402921795845032
+  },
+  {
+    "video_id": "mrknqIZD-jk",
+    "label": "neutral",
+    "score": 0.6731243133544922
+  },
+  {
+    "video_id": "mWdsbB4auLE",
+    "label": "neutral",
+    "score": 0.8432517647743225
+  },
+  {
+    "video_id": "MoRRRbULgCs",
+    "label": "negative",
+    "score": 0.7633029818534851
+  },
+  {
+    "video_id": "mP5yxFZr7_M",
+    "label": "neutral",
+    "score": 0.6229733228683472
+  },
+  {
+    "video_id": "MNw89wrtNC0",
+    "label": "neutral",
+    "score": 0.5490862131118774
+  },
+  {
+    "video_id": "mM3kOpgjm98",
+    "label": "positive",
+    "score": 0.8563231229782104
+  },
+  {
+    "video_id": "mIj4DAyQNMc",
+    "label": "neutral",
+    "score": 0.9320906400680542
+  },
+  {
+    "video_id": "mJv8NXSmTwg",
+    "label": "neutral",
+    "score": 0.9398548603057861
+  },
+  {
+    "video_id": "mkAnLEvrgNA",
+    "label": "negative",
+    "score": 0.7710478901863098
+  },
+  {
+    "video_id": "mjbTgV0mu2Q",
+    "label": "neutral",
+    "score": 0.8885568976402283
+  },
+  {
+    "video_id": "Mi8me6_jbrg",
+    "label": "negative",
+    "score": 0.6155770421028137
+  },
+  {
+    "video_id": "mJuwWPdHnEc",
+    "label": "negative",
+    "score": 0.7354504466056824
+  },
+  {
+    "video_id": "mn5pf3b0qvY",
+    "label": "neutral",
+    "score": 0.9391438961029053
+  },
+  {
+    "video_id": "MhIF0wmExe4",
+    "label": "neutral",
+    "score": 0.8718393445014954
+  },
+  {
+    "video_id": "MhWBzoDv76Y",
+    "label": "neutral",
+    "score": 0.6227035522460938
+  },
+  {
+    "video_id": "mhjWUGOJ3kg",
+    "label": "negative",
+    "score": 0.8714615702629089
+  },
+  {
+    "video_id": "Mfd-m7DEFVU",
+    "label": "neutral",
+    "score": 0.5376565456390381
+  },
+  {
+    "video_id": "MGfeUj4UfSY",
+    "label": "neutral",
+    "score": 0.8191660642623901
+  },
+  {
+    "video_id": "MHPcz9oY-i8",
+    "label": "neutral",
+    "score": 0.663670003414154
+  },
+  {
+    "video_id": "MeFlVvy9URs",
+    "label": "neutral",
+    "score": 0.5071551203727722
+  },
+  {
+    "video_id": "meed9iVJ1gU",
+    "label": "negative",
+    "score": 0.9540568590164185
+  },
+  {
+    "video_id": "mDZ5es5ajxw",
+    "label": "negative",
+    "score": 0.5168859958648682
+  },
+  {
+    "video_id": "M3sN24dnocs",
+    "label": "negative",
+    "score": 0.6961888074874878
+  },
+  {
+    "video_id": "M38Ktarcm6o",
+    "label": "neutral",
+    "score": 0.5461360216140747
+  },
+  {
+    "video_id": "M51oyHgPwyM",
+    "label": "neutral",
+    "score": 0.9305586814880371
+  },
+  {
+    "video_id": "m6Ss2nD4Boo",
+    "label": "neutral",
+    "score": 0.7622173428535461
+  },
+  {
+    "video_id": "MANOnxovjis",
+    "label": "negative",
+    "score": 0.8206315636634827
+  },
+  {
+    "video_id": "LXUXUfmorRU",
+    "label": "positive",
+    "score": 0.6419395804405212
+  },
+  {
+    "video_id": "MdSqPwFxumY",
+    "label": "neutral",
+    "score": 0.766407310962677
+  },
+  {
+    "video_id": "lX8Jk4_V2nc",
+    "label": "neutral",
+    "score": 0.8370963931083679
+  },
+  {
+    "video_id": "lx5SRKL7X9Y",
+    "label": "neutral",
+    "score": 0.9257077574729919
+  },
+  {
+    "video_id": "lX06r1zGfA8",
+    "label": "neutral",
+    "score": 0.5172961950302124
+  },
+  {
+    "video_id": "lV_SkRHLT5s",
+    "label": "neutral",
+    "score": 0.9014293551445007
+  },
+  {
+    "video_id": "LWcV5HYPYXU",
+    "label": "neutral",
+    "score": 0.8192458152770996
+  },
+  {
+    "video_id": "lx93hcGMiZs",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "LuKwFajn37U",
+    "label": "positive",
+    "score": 0.9117854833602905
+  },
+  {
+    "video_id": "LWK3kgWLI-s",
+    "label": "neutral",
+    "score": 0.7291671633720398
+  },
+  {
+    "video_id": "lu7PVnPyyFc",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "lnXEZIGoXyw",
+    "label": "neutral",
+    "score": 0.7957192063331604
+  },
+  {
+    "video_id": "ln8-O5ObuvI",
+    "label": "neutral",
+    "score": 0.9317947626113892
+  },
+  {
+    "video_id": "lTW22PUi1Fs",
+    "label": "neutral",
+    "score": 0.7427147626876831
+  },
+  {
+    "video_id": "Lly8TzZXImQ",
+    "label": "positive",
+    "score": 0.5582724809646606
+  },
+  {
+    "video_id": "LNGGHRCSIn8",
+    "label": "neutral",
+    "score": 0.5856105089187622
+  },
+  {
+    "video_id": "LKYwH4WqSDI",
+    "label": "negative",
+    "score": 0.5267297029495239
+  },
+  {
+    "video_id": "LjPAFyhSy7s",
+    "label": "neutral",
+    "score": 0.5157772898674011
+  },
+  {
+    "video_id": "lhgGt9WkahA",
+    "label": "neutral",
+    "score": 0.7684094309806824
+  },
+  {
+    "video_id": "Lh_WoNEkTCA",
+    "label": "neutral",
+    "score": 0.9264350533485413
+  },
+  {
+    "video_id": "LkKHc84h_Mc",
+    "label": "neutral",
+    "score": 0.8598111271858215
+  },
+  {
+    "video_id": "LG_59bc06JY",
+    "label": "negative",
+    "score": 0.7863612771034241
+  },
+  {
+    "video_id": "lFRUHpEhrtc",
+    "label": "neutral",
+    "score": 0.8733832836151123
+  },
+  {
+    "video_id": "LgOXLLJJV1w",
+    "label": "neutral",
+    "score": 0.9361327886581421
+  },
+  {
+    "video_id": "LfL8djI62RY",
+    "label": "positive",
+    "score": 0.924070417881012
+  },
+  {
+    "video_id": "lF7qhxNK-qA",
+    "label": "neutral",
+    "score": 0.6346587538719177
+  },
+  {
+    "video_id": "LF5CBt5Bibk",
+    "label": "neutral",
+    "score": 0.8842850923538208
+  },
+  {
+    "video_id": "LBsstLtcOec",
+    "label": "positive",
+    "score": 0.8669576644897461
+  },
+  {
+    "video_id": "LcXZ3AfI0DQ",
+    "label": "neutral",
+    "score": 0.8351894021034241
+  },
+  {
+    "video_id": "LBkx-Vzj6KE",
+    "label": "neutral",
+    "score": 0.8631588816642761
+  },
+  {
+    "video_id": "lb_4prmOqKo",
+    "label": "negative",
+    "score": 0.5440990328788757
+  },
+  {
+    "video_id": "lAqwe5tkAD8",
+    "label": "neutral",
+    "score": 0.8562594652175903
+  },
+  {
+    "video_id": "LFE-ncpzLWw",
+    "label": "neutral",
+    "score": 0.5030028223991394
+  },
+  {
+    "video_id": "l9ELn60OQKk",
+    "label": "negative",
+    "score": 0.5928660035133362
+  },
+  {
+    "video_id": "lelcm_cX3FM",
+    "label": "neutral",
+    "score": 0.5447238087654114
+  },
+  {
+    "video_id": "KzmrpdEWx8Y",
+    "label": "neutral",
+    "score": 0.8647699356079102
+  },
+  {
+    "video_id": "KPEJpgJDPjI",
+    "label": "negative",
+    "score": 0.847942590713501
+  },
+  {
+    "video_id": "KW1VjOlQFu0",
+    "label": "neutral",
+    "score": 0.9375675320625305
+  },
+  {
+    "video_id": "k_SU49Ga_og",
+    "label": "neutral",
+    "score": 0.8734351396560669
+  },
+  {
+    "video_id": "kvJ-T3RI1O0",
+    "label": "neutral",
+    "score": 0.89341801404953
+  },
+  {
+    "video_id": "ks83JIqtQ_k",
+    "label": "negative",
+    "score": 0.500645637512207
+  },
+  {
+    "video_id": "kO23-vsPNuk",
+    "label": "negative",
+    "score": 0.6599889993667603
+  },
+  {
+    "video_id": "kX35gqEbiyg",
+    "label": "neutral",
+    "score": 0.532425045967102
+  },
+  {
+    "video_id": "ko55z5qMi64",
+    "label": "negative",
+    "score": 0.7824167609214783
+  },
+  {
+    "video_id": "KQ5wn_2krto",
+    "label": "neutral",
+    "score": 0.9370329976081848
+  },
+  {
+    "video_id": "KmU4rjNKIcQ",
+    "label": "negative",
+    "score": 0.5183202028274536
+  },
+  {
+    "video_id": "kLT8C2Jag1E",
+    "label": "negative",
+    "score": 0.7926938533782959
+  },
+  {
+    "video_id": "KL-XDprdstY",
+    "label": "neutral",
+    "score": 0.8610461950302124
+  },
+  {
+    "video_id": "Klaj4l0a04s",
+    "label": "neutral",
+    "score": 0.7390792369842529
+  },
+  {
+    "video_id": "kKlegREjkLI",
+    "label": "negative",
+    "score": 0.7167761325836182
+  },
+  {
+    "video_id": "kLAb86rW-HA",
+    "label": "neutral",
+    "score": 0.8919814229011536
+  },
+  {
+    "video_id": "kKGrzdstUUw",
+    "label": "negative",
+    "score": 0.5297170281410217
+  },
+  {
+    "video_id": "KiGsJ75vq9w",
+    "label": "negative",
+    "score": 0.8285402655601501
+  },
+  {
+    "video_id": "kGjcjR_AHY0",
+    "label": "neutral",
+    "score": 0.7979133725166321
+  },
+  {
+    "video_id": "KCYTLS8jEOU",
+    "label": "neutral",
+    "score": 0.8692384958267212
+  },
+  {
+    "video_id": "KHOSgJ7QRs4",
+    "label": "neutral",
+    "score": 0.9302816987037659
+  },
+  {
+    "video_id": "KJr3U6h4R1w",
+    "label": "neutral",
+    "score": 0.8382111191749573
+  },
+  {
+    "video_id": "KGi_QlQUUFM",
+    "label": "neutral",
+    "score": 0.8733158111572266
+  },
+  {
+    "video_id": "kC4STgBT-EY",
+    "label": "negative",
+    "score": 0.8245418667793274
+  },
+  {
+    "video_id": "KAOz26epgdc",
+    "label": "neutral",
+    "score": 0.6909525990486145
+  },
+  {
+    "video_id": "KAbUv8Iu1A8",
+    "label": "neutral",
+    "score": 0.4740864932537079
+  },
+  {
+    "video_id": "Ka1p8odk98c",
+    "label": "neutral",
+    "score": 0.8218761682510376
+  },
+  {
+    "video_id": "K-TDIDpLtUQ",
+    "label": "neutral",
+    "score": 0.614276111125946
+  },
+  {
+    "video_id": "K5a0wE4pXiM",
+    "label": "neutral",
+    "score": 0.6158251762390137
+  },
+  {
+    "video_id": "k4x8uwj47NQ",
+    "label": "negative",
+    "score": 0.7580146789550781
+  },
+  {
+    "video_id": "K-NE5CnaKAg",
+    "label": "neutral",
+    "score": 0.7892951369285583
+  },
+  {
+    "video_id": "k4shvBOsPec",
+    "label": "neutral",
+    "score": 0.7018626928329468
+  },
+  {
+    "video_id": "kaYS30dAHfg",
+    "label": "neutral",
+    "score": 0.9060474634170532
+  },
+  {
+    "video_id": "JzWI8UMOf7U",
+    "label": "neutral",
+    "score": 0.7748538255691528
+  },
+  {
+    "video_id": "jzh7B3CwxM8",
+    "label": "neutral",
+    "score": 0.64363032579422
+  },
+  {
+    "video_id": "JVmgFug86gE",
+    "label": "neutral",
+    "score": 0.9414288997650146
+  },
+  {
+    "video_id": "Jx7-0SL4Tq4",
+    "label": "neutral",
+    "score": 0.9471256136894226
+  },
+  {
+    "video_id": "jVkr9gPom8o",
+    "label": "neutral",
+    "score": 0.9397187232971191
+  },
+  {
+    "video_id": "JxXxYdRiU_M",
+    "label": "negative",
+    "score": 0.8407889604568481
+  },
+  {
+    "video_id": "JZRpvGsW2sU",
+    "label": "negative",
+    "score": 0.5049052834510803
+  },
+  {
+    "video_id": "JU5zNW3x1IY",
+    "label": "negative",
+    "score": 0.8065040707588196
+  },
+  {
+    "video_id": "jQK1_PiTqTE",
+    "label": "positive",
+    "score": 0.5370559096336365
+  },
+  {
+    "video_id": "JOmqV7mKlFo",
+    "label": "positive",
+    "score": 0.8149384260177612
+  },
+  {
+    "video_id": "JnzIKhiFgoM",
+    "label": "neutral",
+    "score": 0.5296770930290222
+  },
+  {
+    "video_id": "jLYQGA7P1yo",
+    "label": "neutral",
+    "score": 0.5151771903038025
+  },
+  {
+    "video_id": "JmJVSgEGbPs",
+    "label": "neutral",
+    "score": 0.9303542375564575
+  },
+  {
+    "video_id": "jVALZ9a0IWg",
+    "label": "neutral",
+    "score": 0.9395067691802979
+  },
+  {
+    "video_id": "jqyJY_hCCsw",
+    "label": "negative",
+    "score": 0.6210176348686218
+  },
+  {
+    "video_id": "JMW2G7ez3SE",
+    "label": "neutral",
+    "score": 0.8306785225868225
+  },
+  {
+    "video_id": "jKoKTO3uJ94",
+    "label": "neutral",
+    "score": 0.7715578675270081
+  },
+  {
+    "video_id": "JGOw2lEMwrk",
+    "label": "neutral",
+    "score": 0.8965436816215515
+  },
+  {
+    "video_id": "jkzBs0u_-WM",
+    "label": "neutral",
+    "score": 0.9521470665931702
+  },
+  {
+    "video_id": "JjS7ue1ceW8",
+    "label": "neutral",
+    "score": 0.9277518391609192
+  },
+  {
+    "video_id": "JFa6u9orPK8",
+    "label": "neutral",
+    "score": 0.5591604709625244
+  },
+  {
+    "video_id": "jfDbwEWXs9U",
+    "label": "neutral",
+    "score": 0.9356004595756531
+  },
+  {
+    "video_id": "JEtvLd4B-AY",
+    "label": "neutral",
+    "score": 0.8665503859519958
+  },
+  {
+    "video_id": "JIT1nek6om8",
+    "label": "neutral",
+    "score": 0.9097134470939636
+  },
+  {
+    "video_id": "JEks07SHFIE",
+    "label": "neutral",
+    "score": 0.5841116905212402
+  },
+  {
+    "video_id": "jCMgPAbXfXk",
+    "label": "neutral",
+    "score": 0.8619264960289001
+  },
+  {
+    "video_id": "JduzROpaMlw",
+    "label": "neutral",
+    "score": 0.8723663687705994
+  },
+  {
+    "video_id": "jBCGM5jBR-Y",
+    "label": "neutral",
+    "score": 0.7733206152915955
+  },
+  {
+    "video_id": "J5jFu9KBFjc",
+    "label": "negative",
+    "score": 0.8737121224403381
+  },
+  {
+    "video_id": "jchm-PJfR8s",
+    "label": "negative",
+    "score": 0.8494100570678711
+  },
+  {
+    "video_id": "jdL2auML4GU",
+    "label": "negative",
+    "score": 0.8680725693702698
+  },
+  {
+    "video_id": "J1Gm5ynu8xo",
+    "label": "neutral",
+    "score": 0.7186974883079529
+  },
+  {
+    "video_id": "J-iDDaSxvto",
+    "label": "negative",
+    "score": 0.6632252931594849
+  },
+  {
+    "video_id": "I_q6oWLDSvk",
+    "label": "neutral",
+    "score": 0.9105105400085449
+  },
+  {
+    "video_id": "IzMkmcVavGg",
+    "label": "negative",
+    "score": 0.8204804062843323
+  },
+  {
+    "video_id": "I_KSOsENmK0",
+    "label": "neutral",
+    "score": 0.6408480405807495
+  },
+  {
+    "video_id": "IzjHNl2Fndo",
+    "label": "positive",
+    "score": 0.6978779435157776
+  },
+  {
+    "video_id": "iXkKUqb9gQk",
+    "label": "neutral",
+    "score": 0.9516721963882446
+  },
+  {
+    "video_id": "itRt2Rg0q_Y",
+    "label": "neutral",
+    "score": 0.7916625142097473
+  },
+  {
+    "video_id": "IUm6s5NaGCw",
+    "label": "neutral",
+    "score": 0.8850111961364746
+  },
+  {
+    "video_id": "ISrEVpxTyVs",
+    "label": "neutral",
+    "score": 0.94881272315979
+  },
+  {
+    "video_id": "iRZ3Ml7jTow",
+    "label": "neutral",
+    "score": 0.8210324645042419
+  },
+  {
+    "video_id": "is7ujCcChEQ",
+    "label": "negative",
+    "score": 0.5278223752975464
+  },
+  {
+    "video_id": "IqiIxNfAtrI",
+    "label": "negative",
+    "score": 0.591584324836731
+  },
+  {
+    "video_id": "iqRrFqGJD00",
+    "label": "neutral",
+    "score": 0.7213119268417358
+  },
+  {
+    "video_id": "iPBaZzmsk6g",
+    "label": "neutral",
+    "score": 0.8993138670921326
+  },
+  {
+    "video_id": "IQFZOk12mf4",
+    "label": "neutral",
+    "score": 0.9468133449554443
+  },
+  {
+    "video_id": "iOj-BI1n1Ms",
+    "label": "negative",
+    "score": 0.5621574521064758
+  },
+  {
+    "video_id": "IO81VyzH_4I",
+    "label": "neutral",
+    "score": 0.6697127819061279
+  },
+  {
+    "video_id": "Io-G_aiF8HA",
+    "label": "neutral",
+    "score": 0.959298312664032
+  },
+  {
+    "video_id": "INp4N4oRe5U",
+    "label": "neutral",
+    "score": 0.9087523818016052
+  },
+  {
+    "video_id": "iipR5yUp36o",
+    "label": "positive",
+    "score": 0.5760094523429871
+  },
+  {
+    "video_id": "II_m28Bm-iM",
+    "label": "neutral",
+    "score": 0.5670957565307617
+  },
+  {
+    "video_id": "IhVmgLwtqWQ",
+    "label": "negative",
+    "score": 0.5606133341789246
+  },
+  {
+    "video_id": "imh2H58Stvs",
+    "label": "neutral",
+    "score": 0.8100792765617371
+  },
+  {
+    "video_id": "IL5KZPYA1AI",
+    "label": "positive",
+    "score": 0.9026458859443665
+  },
+  {
+    "video_id": "ihUC9vJCrCA",
+    "label": "neutral",
+    "score": 0.7566102147102356
+  },
+  {
+    "video_id": "iJBuXDh8W1U",
+    "label": "neutral",
+    "score": 0.8122740983963013
+  },
+  {
+    "video_id": "ihn0GB36iG4",
+    "label": "negative",
+    "score": 0.5902578234672546
+  },
+  {
+    "video_id": "ifgOMEerYQI",
+    "label": "neutral",
+    "score": 0.904845654964447
+  },
+  {
+    "video_id": "iH38HBqeuDQ",
+    "label": "neutral",
+    "score": 0.9288926124572754
+  },
+  {
+    "video_id": "IgTocye-42c",
+    "label": "neutral",
+    "score": 0.5145345330238342
+  },
+  {
+    "video_id": "if4ZLrsVtIA",
+    "label": "negative",
+    "score": 0.7951211333274841
+  },
+  {
+    "video_id": "IfPIjaarP8o",
+    "label": "neutral",
+    "score": 0.9022966027259827
+  },
+  {
+    "video_id": "iEpJwprxDdk",
+    "label": "neutral",
+    "score": 0.9440256357192993
+  },
+  {
+    "video_id": "IDvmJ_ecV4E",
+    "label": "negative",
+    "score": 0.7132472395896912
+  },
+  {
+    "video_id": "IdWycV-rVwI",
+    "label": "neutral",
+    "score": 0.5477454662322998
+  },
+  {
+    "video_id": "IeAn_AbSFsc",
+    "label": "neutral",
+    "score": 0.6926043629646301
+  },
+  {
+    "video_id": "ie2ci2mPwqQ",
+    "label": "neutral",
+    "score": 0.9455327987670898
+  },
+  {
+    "video_id": "IccqrNYV5-0",
+    "label": "neutral",
+    "score": 0.837205171585083
+  },
+  {
+    "video_id": "I7K_3aHR0vo",
+    "label": "neutral",
+    "score": 0.9331442713737488
+  },
+  {
+    "video_id": "Id6CGzSLESs",
+    "label": "neutral",
+    "score": 0.858942985534668
+  },
+  {
+    "video_id": "i6JOpNNfq9s",
+    "label": "negative",
+    "score": 0.8398228883743286
+  },
+  {
+    "video_id": "i7lDPItU9BM",
+    "label": "neutral",
+    "score": 0.5471565127372742
+  },
+  {
+    "video_id": "I4VsJuSSr6Y",
+    "label": "neutral",
+    "score": 0.8313081860542297
+  },
+  {
+    "video_id": "H_TSYgLEp4s",
+    "label": "neutral",
+    "score": 0.9183592796325684
+  },
+  {
+    "video_id": "hWpiYolshw8",
+    "label": "neutral",
+    "score": 0.7766484618186951
+  },
+  {
+    "video_id": "I29WrCeiCzY",
+    "label": "neutral",
+    "score": 0.9500619173049927
+  },
+  {
+    "video_id": "I4sdy8hA7ic",
+    "label": "neutral",
+    "score": 0.7959276437759399
+  },
+  {
+    "video_id": "HY3yER9op04",
+    "label": "neutral",
+    "score": 0.5174036026000977
+  },
+  {
+    "video_id": "hYKivf1EqAU",
+    "label": "neutral",
+    "score": 0.7448728680610657
+  },
+  {
+    "video_id": "HuM1_NJUn2I",
+    "label": "negative",
+    "score": 0.5567420125007629
+  },
+  {
+    "video_id": "Hw99tEXh_m4",
+    "label": "negative",
+    "score": 0.6893123388290405
+  },
+  {
+    "video_id": "Hv__bdDvRUc",
+    "label": "neutral",
+    "score": 0.5820663571357727
+  },
+  {
+    "video_id": "Hr8rAvYsLLE",
+    "label": "negative",
+    "score": 0.7038552165031433
+  },
+  {
+    "video_id": "hMYOFZnqbSY",
+    "label": "negative",
+    "score": 0.5412083268165588
+  },
+  {
+    "video_id": "hm5YQ_hKhEw",
+    "label": "neutral",
+    "score": 0.6407551169395447
+  },
+  {
+    "video_id": "hNB530cayL4",
+    "label": "neutral",
+    "score": 0.5810230374336243
+  },
+  {
+    "video_id": "htR5g0CRt0k",
+    "label": "neutral",
+    "score": 0.8982934951782227
+  },
+  {
+    "video_id": "HSp9r5dyMf0",
+    "label": "neutral",
+    "score": 0.7039539813995361
+  },
+  {
+    "video_id": "HpNPKS4JzME",
+    "label": "negative",
+    "score": 0.8429010510444641
+  },
+  {
+    "video_id": "Hm4iZaPQDgU",
+    "label": "negative",
+    "score": 0.7309578061103821
+  },
+  {
+    "video_id": "HM48MARMV14",
+    "label": "negative",
+    "score": 0.6280325651168823
+  },
+  {
+    "video_id": "HLEb4fbSwCA",
+    "label": "negative",
+    "score": 0.532150149345398
+  },
+  {
+    "video_id": "hKeHTCkee0k",
+    "label": "neutral",
+    "score": 0.690050482749939
+  },
+  {
+    "video_id": "hJqlXCFCKmE",
+    "label": "negative",
+    "score": 0.8313558101654053
+  },
+  {
+    "video_id": "hfwPLazLbd4",
+    "label": "neutral",
+    "score": 0.9442182779312134
+  },
+  {
+    "video_id": "HFKkvSUhNhM",
+    "label": "negative",
+    "score": 0.6651929616928101
+  },
+  {
+    "video_id": "hdZf5uHTw9U",
+    "label": "negative",
+    "score": 0.7688242197036743
+  },
+  {
+    "video_id": "H8RRBoIwsYw",
+    "label": "neutral",
+    "score": 0.5150673985481262
+  },
+  {
+    "video_id": "H3NhGsb1MRc",
+    "label": "neutral",
+    "score": 0.6763964295387268
+  },
+  {
+    "video_id": "hbYHs7Ot43M",
+    "label": "negative",
+    "score": 0.8018054962158203
+  },
+  {
+    "video_id": "hDxf5-mGXrU",
+    "label": "neutral",
+    "score": 0.8840965032577515
+  },
+  {
+    "video_id": "h7gLsmvbMTI",
+    "label": "negative",
+    "score": 0.5102818608283997
+  },
+  {
+    "video_id": "h2xiexeVTMY",
+    "label": "neutral",
+    "score": 0.7694632411003113
+  },
+  {
+    "video_id": "H5RIAuwH3Ok",
+    "label": "neutral",
+    "score": 0.7534371614456177
+  },
+  {
+    "video_id": "H0mC8Y0a-AI",
+    "label": "neutral",
+    "score": 0.8429332375526428
+  },
+  {
+    "video_id": "GYyRzZqRhss",
+    "label": "neutral",
+    "score": 0.9483706951141357
+  },
+  {
+    "video_id": "GUPmNyuOkIg",
+    "label": "neutral",
+    "score": 0.5548776984214783
+  },
+  {
+    "video_id": "Gt0MZ62odZQ",
+    "label": "neutral",
+    "score": 0.8905974626541138
+  },
+  {
+    "video_id": "gY5bJkqffn0",
+    "label": "neutral",
+    "score": 0.6794535517692566
+  },
+  {
+    "video_id": "GwUET3Ls3kc",
+    "label": "negative",
+    "score": 0.7377073764801025
+  },
+  {
+    "video_id": "gyqZTaE_t2c",
+    "label": "negative",
+    "score": 0.7585986256599426
+  },
+  {
+    "video_id": "gWYLQsk90bE",
+    "label": "neutral",
+    "score": 0.620830774307251
+  },
+  {
+    "video_id": "gvru_VW_IiE",
+    "label": "neutral",
+    "score": 0.49292635917663574
+  },
+  {
+    "video_id": "gv7wCxpTbmY",
+    "label": "neutral",
+    "score": 0.674575924873352
+  },
+  {
+    "video_id": "gsE0T7V_-aU",
+    "label": "neutral",
+    "score": 0.4957137107849121
+  },
+  {
+    "video_id": "GrrV5EtdkDg",
+    "label": "neutral",
+    "score": 0.8695403337478638
+  },
+  {
+    "video_id": "GqxFX1eN71U",
+    "label": "negative",
+    "score": 0.5320548415184021
+  },
+  {
+    "video_id": "gmX9XI_Fltg",
+    "label": "negative",
+    "score": 0.5663169026374817
+  },
+  {
+    "video_id": "GlHSFtTFfJE",
+    "label": "neutral",
+    "score": 0.9317278861999512
+  },
+  {
+    "video_id": "gpxkSg2OMh0",
+    "label": "neutral",
+    "score": 0.5999588370323181
+  },
+  {
+    "video_id": "GKqR0Daz1dc",
+    "label": "positive",
+    "score": 0.5764451026916504
+  },
+  {
+    "video_id": "glehnO_VNKs",
+    "label": "neutral",
+    "score": 0.7854316830635071
+  },
+  {
+    "video_id": "gLuRV_6kSiI",
+    "label": "negative",
+    "score": 0.856356143951416
+  },
+  {
+    "video_id": "GqIyqC9wYOE",
+    "label": "neutral",
+    "score": 0.845544159412384
+  },
+  {
+    "video_id": "GjozgTyJR-Q",
+    "label": "neutral",
+    "score": 0.9556314945220947
+  },
+  {
+    "video_id": "gJONZ3mpo-c",
+    "label": "neutral",
+    "score": 0.9075414538383484
+  },
+  {
+    "video_id": "gKA1TccbODQ",
+    "label": "negative",
+    "score": 0.8221275210380554
+  },
+  {
+    "video_id": "gjBGPTEYeJo",
+    "label": "negative",
+    "score": 0.6240987181663513
+  },
+  {
+    "video_id": "gH4CJQlP7s0",
+    "label": "neutral",
+    "score": 0.9120588898658752
+  },
+  {
+    "video_id": "GIXG2N0MyF4",
+    "label": "neutral",
+    "score": 0.9104072451591492
+  },
+  {
+    "video_id": "GDHyZP7YSww",
+    "label": "negative",
+    "score": 0.8454408645629883
+  },
+  {
+    "video_id": "GDzLJELYGPA",
+    "label": "neutral",
+    "score": 0.5324714183807373
+  },
+  {
+    "video_id": "gEPRgSsqUw8",
+    "label": "negative",
+    "score": 0.6747487783432007
+  },
+  {
+    "video_id": "gElHQRmMNDw",
+    "label": "neutral",
+    "score": 0.737270176410675
+  },
+  {
+    "video_id": "GDNdx0XpqCU",
+    "label": "negative",
+    "score": 0.7805840373039246
+  },
+  {
+    "video_id": "GD6rZB_P2MM",
+    "label": "neutral",
+    "score": 0.7766754031181335
+  },
+  {
+    "video_id": "GCFHobM2dbQ",
+    "label": "neutral",
+    "score": 0.7960829138755798
+  },
+  {
+    "video_id": "gCNeDWCI0vo",
+    "label": "neutral",
+    "score": 0.9186550974845886
+  },
+  {
+    "video_id": "GBH-OSddqoA",
+    "label": "neutral",
+    "score": 0.5981355905532837
+  },
+  {
+    "video_id": "GbceNnJ1s-Q",
+    "label": "neutral",
+    "score": 0.891150176525116
+  },
+  {
+    "video_id": "F_G0MUNASSE",
+    "label": "neutral",
+    "score": 0.5241822600364685
+  },
+  {
+    "video_id": "g9dsWd6Vm84",
+    "label": "neutral",
+    "score": 0.7730260491371155
+  },
+  {
+    "video_id": "FZXE2mA2lD0",
+    "label": "negative",
+    "score": 0.8017147183418274
+  },
+  {
+    "video_id": "gBeB2gH7Bo4",
+    "label": "neutral",
+    "score": 0.8600662350654602
+  },
+  {
+    "video_id": "G4pgdUhHg6w",
+    "label": "neutral",
+    "score": 0.832136869430542
+  },
+  {
+    "video_id": "G4EQrPkpP2w",
+    "label": "negative",
+    "score": 0.7236829996109009
+  },
+  {
+    "video_id": "g8UKcL45crI",
+    "label": "negative",
+    "score": 0.5439059138298035
+  },
+  {
+    "video_id": "FvededqeyPg",
+    "label": "neutral",
+    "score": 0.7504745721817017
+  },
+  {
+    "video_id": "fralUxtZtXI",
+    "label": "neutral",
+    "score": 0.6933627128601074
+  },
+  {
+    "video_id": "ftF15-56FY8",
+    "label": "neutral",
+    "score": 0.5024598836898804
+  },
+  {
+    "video_id": "FnG0aSH_Jnw",
+    "label": "negative",
+    "score": 0.7689687609672546
+  },
+  {
+    "video_id": "Fs-JMKmXdPs",
+    "label": "neutral",
+    "score": 0.95140141248703
+  },
+  {
+    "video_id": "FP0KDCwcAIc",
+    "label": "negative",
+    "score": 0.7680845856666565
+  },
+  {
+    "video_id": "fQOYQjfppSo",
+    "label": "neutral",
+    "score": 0.843295693397522
+  },
+  {
+    "video_id": "FoaNW20cQz8",
+    "label": "neutral",
+    "score": 0.9447312355041504
+  },
+  {
+    "video_id": "fuKxmXm4d8U",
+    "label": "neutral",
+    "score": 0.9555862545967102
+  },
+  {
+    "video_id": "fpsLRbqTgLs",
+    "label": "neutral",
+    "score": 0.9428713917732239
+  },
+  {
+    "video_id": "fNCNdy5sBjo",
+    "label": "neutral",
+    "score": 0.6259627342224121
+  },
+  {
+    "video_id": "fMUgFFdsKaY",
+    "label": "negative",
+    "score": 0.7794837355613708
+  },
+  {
+    "video_id": "fGzqtTFqKEg",
+    "label": "neutral",
+    "score": 0.9411066770553589
+  },
+  {
+    "video_id": "ffk0BvFYQRg",
+    "label": "neutral",
+    "score": 0.9484961628913879
+  },
+  {
+    "video_id": "FJpuKIvCdVs",
+    "label": "neutral",
+    "score": 0.8264496922492981
+  },
+  {
+    "video_id": "FkgsXhArVww",
+    "label": "neutral",
+    "score": 0.5499452352523804
+  },
+  {
+    "video_id": "ffsWL_6fwFA",
+    "label": "neutral",
+    "score": 0.9475187659263611
+  },
+  {
+    "video_id": "F99aLfIv8Eg",
+    "label": "neutral",
+    "score": 0.627799391746521
+  },
+  {
+    "video_id": "FBLwB9JybQ8",
+    "label": "neutral",
+    "score": 0.8922663331031799
+  },
+  {
+    "video_id": "fcXi0i0s_vA",
+    "label": "neutral",
+    "score": 0.7618197202682495
+  },
+  {
+    "video_id": "f7OGne0tjKA",
+    "label": "neutral",
+    "score": 0.7949103713035583
+  },
+  {
+    "video_id": "f8MuPOQ3W9o",
+    "label": "neutral",
+    "score": 0.8657759428024292
+  },
+  {
+    "video_id": "FcDX8nd7UKc",
+    "label": "negative",
+    "score": 0.8211686611175537
+  },
+  {
+    "video_id": "f6r1nM2I0ws",
+    "label": "neutral",
+    "score": 0.8943082690238953
+  },
+  {
+    "video_id": "f3oZ0qOx1ug",
+    "label": "negative",
+    "score": 0.761090874671936
+  },
+  {
+    "video_id": "F1VVl5rzPps",
+    "label": "negative",
+    "score": 0.6598982214927673
+  },
+  {
+    "video_id": "ezjlFZJTCc4",
+    "label": "neutral",
+    "score": 0.9498192667961121
+  },
+  {
+    "video_id": "F3tKqo2cgfI",
+    "label": "neutral",
+    "score": 0.8664762377738953
+  },
+  {
+    "video_id": "f0DHUqqoPwk",
+    "label": "negative",
+    "score": 0.8116242289543152
+  },
+  {
+    "video_id": "Ez2boFyQpQM",
+    "label": "neutral",
+    "score": 0.8898915648460388
+  },
+  {
+    "video_id": "ervKcVl69J0",
+    "label": "negative",
+    "score": 0.6849541664123535
+  },
+  {
+    "video_id": "EvwVF_Quae8",
+    "label": "neutral",
+    "score": 0.9385253190994263
+  },
+  {
+    "video_id": "Ev2SRJEJeMs",
+    "label": "neutral",
+    "score": 0.579053521156311
+  },
+  {
+    "video_id": "EWaZ0N1qI_4",
+    "label": "negative",
+    "score": 0.720391035079956
+  },
+  {
+    "video_id": "es3AYsBfGAA",
+    "label": "positive",
+    "score": 0.776050329208374
+  },
+  {
+    "video_id": "eqsDKWnO6mE",
+    "label": "neutral",
+    "score": 0.6242077946662903
+  },
+  {
+    "video_id": "eubcgZ5-lVU",
+    "label": "negative",
+    "score": 0.6189631223678589
+  },
+  {
+    "video_id": "euNx2IXSirY",
+    "label": "neutral",
+    "score": 0.7871477603912354
+  },
+  {
+    "video_id": "EhZg7SCtfoo",
+    "label": "neutral",
+    "score": 0.9269371628761292
+  },
+  {
+    "video_id": "EhUf5v0Lpgs",
+    "label": "negative",
+    "score": 0.6617071032524109
+  },
+  {
+    "video_id": "EFqAHaVDPU0",
+    "label": "neutral",
+    "score": 0.6231998205184937
+  },
+  {
+    "video_id": "eM_K9Kv3r0M",
+    "label": "neutral",
+    "score": 0.6139036417007446
+  },
+  {
+    "video_id": "eJJUEWtQzxY",
+    "label": "negative",
+    "score": 0.5595737099647522
+  },
+  {
+    "video_id": "EJ1gQoNkhE0",
+    "label": "negative",
+    "score": 0.7585078477859497
+  },
+  {
+    "video_id": "EGY5bmL_viw",
+    "label": "negative",
+    "score": 0.7585039734840393
+  },
+  {
+    "video_id": "EdraNXAzH3M",
+    "label": "neutral",
+    "score": 0.49394798278808594
+  },
+  {
+    "video_id": "EcRbjaIsrnc",
+    "label": "neutral",
+    "score": 0.5218015313148499
+  },
+  {
+    "video_id": "eBm3aoW19HE",
+    "label": "neutral",
+    "score": 0.8105005621910095
+  },
+  {
+    "video_id": "e7vmrxm8R8Q",
+    "label": "negative",
+    "score": 0.7655629515647888
+  },
+  {
+    "video_id": "E8yWC-mTqi8",
+    "label": "neutral",
+    "score": 0.6247745752334595
+  },
+  {
+    "video_id": "e9kidmBr5M4",
+    "label": "neutral",
+    "score": 0.8066829442977905
+  },
+  {
+    "video_id": "ebFJU_Urtjc",
+    "label": "neutral",
+    "score": 0.8934504389762878
+  },
+  {
+    "video_id": "e6CwmVV4fCo",
+    "label": "negative",
+    "score": 0.557240903377533
+  },
+  {
+    "video_id": "E4SJcniCsX8",
+    "label": "neutral",
+    "score": 0.8634817004203796
+  },
+  {
+    "video_id": "e3irXHiVrpY",
+    "label": "neutral",
+    "score": 0.5680145621299744
+  },
+  {
+    "video_id": "DYbI7j-5Y4g",
+    "label": "neutral",
+    "score": 0.8234268426895142
+  },
+  {
+    "video_id": "E3ceUxdxdD0",
+    "label": "negative",
+    "score": 0.8060072064399719
+  },
+  {
+    "video_id": "e7OzFfRouNQ",
+    "label": "negative",
+    "score": 0.6959508657455444
+  },
+  {
+    "video_id": "dXraTxmASY8",
+    "label": "neutral",
+    "score": 0.936628520488739
+  },
+  {
+    "video_id": "dWF0_snqhGw",
+    "label": "neutral",
+    "score": 0.7604988217353821
+  },
+  {
+    "video_id": "dxZngCEg-aw",
+    "label": "negative",
+    "score": 0.7114740014076233
+  },
+  {
+    "video_id": "Duv2onhCg90",
+    "label": "neutral",
+    "score": 0.8666303157806396
+  },
+  {
+    "video_id": "DPGgNU5JmzU",
+    "label": "neutral",
+    "score": 0.9211142063140869
+  },
+  {
+    "video_id": "DQXXun7fgeY",
+    "label": "negative",
+    "score": 0.7454333305358887
+  },
+  {
+    "video_id": "dvH4XnVMOFU",
+    "label": "neutral",
+    "score": 0.791904628276825
+  },
+  {
+    "video_id": "dOySjaatsy8",
+    "label": "neutral",
+    "score": 0.8152616024017334
+  },
+  {
+    "video_id": "DoJgzdBKGEw",
+    "label": "neutral",
+    "score": 0.9406985640525818
+  },
+  {
+    "video_id": "DLVtw5Rjf9c",
+    "label": "neutral",
+    "score": 0.9312876462936401
+  },
+  {
+    "video_id": "dJFYK1dI4nU",
+    "label": "negative",
+    "score": 0.6892848610877991
+  },
+  {
+    "video_id": "DmH32SPJ9Ac",
+    "label": "neutral",
+    "score": 0.723060667514801
+  },
+  {
+    "video_id": "DNxnNY8N_Co",
+    "label": "neutral",
+    "score": 0.9369685053825378
+  },
+  {
+    "video_id": "DMoD-5u3zOE",
+    "label": "neutral",
+    "score": 0.8410272002220154
+  },
+  {
+    "video_id": "Diuzx0qpyAE",
+    "label": "neutral",
+    "score": 0.9083610773086548
+  },
+  {
+    "video_id": "dIOC9PO8iRc",
+    "label": "neutral",
+    "score": 0.8499049544334412
+  },
+  {
+    "video_id": "DeaqLAzy6F8",
+    "label": "negative",
+    "score": 0.6349678039550781
+  },
+  {
+    "video_id": "DE-eLvlwvBU",
+    "label": "negative",
+    "score": 0.7779596447944641
+  },
+  {
+    "video_id": "DEiYjn3gmR4",
+    "label": "neutral",
+    "score": 0.8841761350631714
+  },
+  {
+    "video_id": "dD1fX_YlrW8",
+    "label": "negative",
+    "score": 0.6540453433990479
+  },
+  {
+    "video_id": "deqv-zWqmEk",
+    "label": "negative",
+    "score": 0.6229556798934937
+  },
+  {
+    "video_id": "DGBrpdRPGeI",
+    "label": "negative",
+    "score": 0.8121707439422607
+  },
+  {
+    "video_id": "dil161w2rLI",
+    "label": "negative",
+    "score": 0.8326024413108826
+  },
+  {
+    "video_id": "ddo8hYJzKsc",
+    "label": "negative",
+    "score": 0.6845651865005493
+  },
+  {
+    "video_id": "d678CdNazzg",
+    "label": "negative",
+    "score": 0.5967287421226501
+  },
+  {
+    "video_id": "D8Uj0ZBpwQE",
+    "label": "neutral",
+    "score": 0.8977513313293457
+  },
+  {
+    "video_id": "Dar-dwNpn30",
+    "label": "negative",
+    "score": 0.7574197053909302
+  },
+  {
+    "video_id": "D5uAnvyuH6M",
+    "label": "negative",
+    "score": 0.7512133717536926
+  },
+  {
+    "video_id": "d2bTXRPbotM",
+    "label": "neutral",
+    "score": 0.5015417337417603
+  },
+  {
+    "video_id": "D2fhDPKgfvA",
+    "label": "neutral",
+    "score": 0.9324508905410767
+  },
+  {
+    "video_id": "D1qKhwWrkIE",
+    "label": "neutral",
+    "score": 0.6276738047599792
+  },
+  {
+    "video_id": "cwhyXKgrhxk",
+    "label": "neutral",
+    "score": 0.8399044871330261
+  },
+  {
+    "video_id": "CYZ8i5TtjzU",
+    "label": "neutral",
+    "score": 0.8876706957817078
+  },
+  {
+    "video_id": "CyEy2xel1Gk",
+    "label": "neutral",
+    "score": 0.9432927370071411
+  },
+  {
+    "video_id": "ct4wM8mwBhA",
+    "label": "negative",
+    "score": 0.7991178035736084
+  },
+  {
+    "video_id": "cWR4ar_K1QI",
+    "label": "positive",
+    "score": 0.9621679186820984
+  },
+  {
+    "video_id": "Cu7QiQHMiOM",
+    "label": "neutral",
+    "score": 0.533818781375885
+  },
+  {
+    "video_id": "d1VO9yclGAY",
+    "label": "neutral",
+    "score": 0.9254469275474548
+  },
+  {
+    "video_id": "cUcE8O6BHpM",
+    "label": "neutral",
+    "score": 0.917976438999176
+  },
+  {
+    "video_id": "CR6DhmgIEG0",
+    "label": "neutral",
+    "score": 0.7313480377197266
+  },
+  {
+    "video_id": "CRLKkZDevDs",
+    "label": "neutral",
+    "score": 0.8661649823188782
+  },
+  {
+    "video_id": "CQMkJ0oGKRY",
+    "label": "negative",
+    "score": 0.5225499272346497
+  },
+  {
+    "video_id": "Cpw5hUobyms",
+    "label": "neutral",
+    "score": 0.8483762741088867
+  },
+  {
+    "video_id": "CQ3KsEbsYHs",
+    "label": "neutral",
+    "score": 0.8608836531639099
+  },
+  {
+    "video_id": "csmtGHvUlog",
+    "label": "neutral",
+    "score": 0.9396369457244873
+  },
+  {
+    "video_id": "Cqg7CKNGsCE",
+    "label": "neutral",
+    "score": 0.7347813844680786
+  },
+  {
+    "video_id": "cMfmGPGczK4",
+    "label": "negative",
+    "score": 0.6144732236862183
+  },
+  {
+    "video_id": "Co8BM-pg3uA",
+    "label": "neutral",
+    "score": 0.5291996598243713
+  },
+  {
+    "video_id": "ckmL1xaSHwI",
+    "label": "neutral",
+    "score": 0.8837858438491821
+  },
+  {
+    "video_id": "cfMfE-SbcaA",
+    "label": "neutral",
+    "score": 0.9291459918022156
+  },
+  {
+    "video_id": "cL-o_uQgpGM",
+    "label": "neutral",
+    "score": 0.7037532329559326
+  },
+  {
+    "video_id": "CfLSE8zGRww",
+    "label": "neutral",
+    "score": 0.916163444519043
+  },
+  {
+    "video_id": "cEt9TAsI6Eo",
+    "label": "neutral",
+    "score": 0.6428706645965576
+  },
+  {
+    "video_id": "cg_ev1tLo1Y",
+    "label": "neutral",
+    "score": 0.9117250442504883
+  },
+  {
+    "video_id": "CF7Apurk6V8",
+    "label": "negative",
+    "score": 0.5718221664428711
+  },
+  {
+    "video_id": "cIy8_sTrnYs",
+    "label": "neutral",
+    "score": 0.9103830456733704
+  },
+  {
+    "video_id": "CbFw1uFE9hU",
+    "label": "neutral",
+    "score": 0.833353579044342
+  },
+  {
+    "video_id": "c5ih6cxkwiQ",
+    "label": "neutral",
+    "score": 0.5813311338424683
+  },
+  {
+    "video_id": "c1pQlYxMV6A",
+    "label": "neutral",
+    "score": 0.8122755885124207
+  },
+  {
+    "video_id": "C5_g1d2j5H4",
+    "label": "neutral",
+    "score": 0.629937469959259
+  },
+  {
+    "video_id": "c4BLZ0FDhKw",
+    "label": "negative",
+    "score": 0.5497927665710449
+  },
+  {
+    "video_id": "C4-8kQn_wec",
+    "label": "negative",
+    "score": 0.6967202425003052
+  },
+  {
+    "video_id": "C8i0nJHn1fk",
+    "label": "neutral",
+    "score": 0.9103901386260986
+  },
+  {
+    "video_id": "C4m1y3suEEw",
+    "label": "neutral",
+    "score": 0.8976681232452393
+  },
+  {
+    "video_id": "c8SpGrD7tB0",
+    "label": "neutral",
+    "score": 0.7228808403015137
+  },
+  {
+    "video_id": "BZjScGbdYhE",
+    "label": "neutral",
+    "score": 0.9277154207229614
+  },
+  {
+    "video_id": "bYRb1AMjTls",
+    "label": "neutral",
+    "score": 0.9326282739639282
+  },
+  {
+    "video_id": "BNvbyp0cSqs",
+    "label": "neutral",
+    "score": 0.8632135987281799
+  },
+  {
+    "video_id": "Bs8YmiHC7aQ",
+    "label": "neutral",
+    "score": 0.9197303056716919
+  },
+  {
+    "video_id": "BYYOAUXsDyM",
+    "label": "positive",
+    "score": 0.68915855884552
+  },
+  {
+    "video_id": "BR-z8KFerAY",
+    "label": "negative",
+    "score": 0.8314788341522217
+  },
+  {
+    "video_id": "BQMsSwhXBQo",
+    "label": "neutral",
+    "score": 0.9415590167045593
+  },
+  {
+    "video_id": "bvXtBfx3jrQ",
+    "label": "neutral",
+    "score": 0.5388089418411255
+  },
+  {
+    "video_id": "BMI2pnY2UDQ",
+    "label": "negative",
+    "score": 0.5912653803825378
+  },
+  {
+    "video_id": "bkv8oLkNDGQ",
+    "label": "neutral",
+    "score": 0.5655405521392822
+  },
+  {
+    "video_id": "BFy8CjAqXEA",
+    "label": "neutral",
+    "score": 0.5194535255432129
+  },
+  {
+    "video_id": "bKLWx0Ajqpk",
+    "label": "positive",
+    "score": 0.9554617404937744
+  },
+  {
+    "video_id": "BFzRV3ai8X0",
+    "label": "negative",
+    "score": 0.49835753440856934
+  },
+  {
+    "video_id": "BJXM3sk2xsk",
+    "label": "neutral",
+    "score": 0.5394319295883179
+  },
+  {
+    "video_id": "Bi-Ps4iOJKA",
+    "label": "neutral",
+    "score": 0.9237056374549866
+  },
+  {
+    "video_id": "bh-NoouZEas",
+    "label": "negative",
+    "score": 0.5918852090835571
+  },
+  {
+    "video_id": "bFTvYSvL2VU",
+    "label": "negative",
+    "score": 0.8595964908599854
+  },
+  {
+    "video_id": "BeGVVreFz74",
+    "label": "neutral",
+    "score": 0.814236044883728
+  },
+  {
+    "video_id": "bdnj_tfRW8w",
+    "label": "neutral",
+    "score": 0.8957253694534302
+  },
+  {
+    "video_id": "B8nXZI9dNio",
+    "label": "neutral",
+    "score": 0.5064210295677185
+  },
+  {
+    "video_id": "b9s56O_QGXE",
+    "label": "neutral",
+    "score": 0.6285818815231323
+  },
+  {
+    "video_id": "B6rTL2kQdRQ",
+    "label": "neutral",
+    "score": 0.8323899507522583
+  },
+  {
+    "video_id": "B8JePO7-Hdo",
+    "label": "negative",
+    "score": 0.6037699580192566
+  },
+  {
+    "video_id": "B6lIjXiUFKE",
+    "label": "negative",
+    "score": 0.7247692942619324
+  },
+  {
+    "video_id": "B2JgTifDPiE",
+    "label": "negative",
+    "score": 0.7215161919593811
+  },
+  {
+    "video_id": "aZdbkOvU9js",
+    "label": "neutral",
+    "score": 0.8467820882797241
+  },
+  {
+    "video_id": "b-Yzp0l8cAM",
+    "label": "neutral",
+    "score": 0.9337643980979919
+  },
+  {
+    "video_id": "AXWppjMuhQE",
+    "label": "neutral",
+    "score": 0.6826097369194031
+  },
+  {
+    "video_id": "aYBhoIyrmxg",
+    "label": "negative",
+    "score": 0.5215401649475098
+  },
+  {
+    "video_id": "AW4DHFNWmDc",
+    "label": "negative",
+    "score": 0.6435793042182922
+  },
+  {
+    "video_id": "ARZBCbXh4gw",
+    "label": "neutral",
+    "score": 0.8752467036247253
+  },
+  {
+    "video_id": "aUCzV0tBq5Y",
+    "label": "neutral",
+    "score": 0.835208535194397
+  },
+  {
+    "video_id": "aQAauVu2sTg",
+    "label": "negative",
+    "score": 0.793777346611023
+  },
+  {
+    "video_id": "apJlfwDOhUI",
+    "label": "neutral",
+    "score": 0.7319380640983582
+  },
+  {
+    "video_id": "Ap-UM1O9RBU",
+    "label": "neutral",
+    "score": 0.9025861024856567
+  },
+  {
+    "video_id": "aoZN0ZaYSI4",
+    "label": "neutral",
+    "score": 0.9292344450950623
+  },
+  {
+    "video_id": "AllLyRPURSE",
+    "label": "negative",
+    "score": 0.7766984105110168
+  },
+  {
+    "video_id": "aPSJgClSXRg",
+    "label": "neutral",
+    "score": 0.7013857960700989
+  },
+  {
+    "video_id": "AeLOzLDytek",
+    "label": "negative",
+    "score": 0.7114022374153137
+  },
+  {
+    "video_id": "aFpp2n5NjAk",
+    "label": "neutral",
+    "score": 0.8744662404060364
+  },
+  {
+    "video_id": "ajzs8Xkb71M",
+    "label": "negative",
+    "score": 0.5895511507987976
+  },
+  {
+    "video_id": "adgliCDpWig",
+    "label": "neutral",
+    "score": 0.8439957499504089
+  },
+  {
+    "video_id": "akFP83frT64",
+    "label": "neutral",
+    "score": 0.8688231110572815
+  },
+  {
+    "video_id": "afNiRPf1zMU",
+    "label": "neutral",
+    "score": 0.6127715110778809
+  },
+  {
+    "video_id": "ABuzX9nWdKw",
+    "label": "negative",
+    "score": 0.6374837756156921
+  },
+  {
+    "video_id": "addslGuEbdY",
+    "label": "neutral",
+    "score": 0.6821890473365784
+  },
+  {
+    "video_id": "aI75r3Wu31s",
+    "label": "neutral",
+    "score": 0.8594048023223877
+  },
+  {
+    "video_id": "abtpyQuauTc",
+    "label": "negative",
+    "score": 0.5981703996658325
+  },
+  {
+    "video_id": "AbJ2j7cH28Y",
+    "label": "neutral",
+    "score": 0.5076915621757507
+  },
+  {
+    "video_id": "A9lnQ9-dPxY",
+    "label": "neutral",
+    "score": 0.6968179941177368
+  },
+  {
+    "video_id": "AboUY5BTsOQ",
+    "label": "neutral",
+    "score": 0.902833104133606
+  },
+  {
+    "video_id": "AAxXJgeEDlI",
+    "label": "neutral",
+    "score": 0.9417584538459778
+  },
+  {
+    "video_id": "a7lHJMKZBEY",
+    "label": "neutral",
+    "score": 0.945564329624176
+  },
+  {
+    "video_id": "A85aLYBT3JA",
+    "label": "neutral",
+    "score": 0.8518669605255127
+  },
+  {
+    "video_id": "a82aE5GLU1M",
+    "label": "neutral",
+    "score": 0.7944739460945129
+  },
+  {
+    "video_id": "A4g-IiMLOb4",
+    "label": "neutral",
+    "score": 0.5331434607505798
+  },
+  {
+    "video_id": "a5B0FhXuLoY",
+    "label": "neutral",
+    "score": 0.9342219829559326
+  },
+  {
+    "video_id": "9yxvP2s-674",
+    "label": "negative",
+    "score": 0.5598561763763428
+  },
+  {
+    "video_id": "9Ttx2nSU9vI",
+    "label": "neutral",
+    "score": 0.92169189453125
+  },
+  {
+    "video_id": "9TKIVecBw5E",
+    "label": "neutral",
+    "score": 0.7622777819633484
+  },
+  {
+    "video_id": "9rXR12VPIG4",
+    "label": "negative",
+    "score": 0.8148878812789917
+  },
+  {
+    "video_id": "9rq7i7mpM6I",
+    "label": "neutral",
+    "score": 0.6898435950279236
+  },
+  {
+    "video_id": "9nJQWECLNkw",
+    "label": "negative",
+    "score": 0.675743043422699
+  },
+  {
+    "video_id": "A-CbdSWXVL0",
+    "label": "negative",
+    "score": 0.6357437968254089
+  },
+  {
+    "video_id": "9mAdmt_jQnI",
+    "label": "neutral",
+    "score": 0.8747597932815552
+  },
+  {
+    "video_id": "96BBwo0ZQwo",
+    "label": "negative",
+    "score": 0.826383650302887
+  },
+  {
+    "video_id": "9bIiNB8Mo-w",
+    "label": "neutral",
+    "score": 0.5370028018951416
+  },
+  {
+    "video_id": "9bkrB5yIhos",
+    "label": "neutral",
+    "score": 0.9446436166763306
+  },
+  {
+    "video_id": "9a2ZhPma9qs",
+    "label": "neutral",
+    "score": 0.791904628276825
+  },
+  {
+    "video_id": "92xdRufytuY",
+    "label": "neutral",
+    "score": 0.9409828186035156
+  },
+  {
+    "video_id": "9C06zmwuiZc",
+    "label": "neutral",
+    "score": 0.9286608099937439
+  },
+  {
+    "video_id": "9Iqsm1Ph5PY",
+    "label": "neutral",
+    "score": 0.7899333834648132
+  },
+  {
+    "video_id": "9M02G5c6x6w",
+    "label": "neutral",
+    "score": 0.8501678705215454
+  },
+  {
+    "video_id": "8Wv0Tof7rRo",
+    "label": "neutral",
+    "score": 0.9387310743331909
+  },
+  {
+    "video_id": "8uCTDszkENs",
+    "label": "neutral",
+    "score": 0.876421332359314
+  },
+  {
+    "video_id": "8Tucuv641tU",
+    "label": "neutral",
+    "score": 0.62031489610672
+  },
+  {
+    "video_id": "8uh7YorHaa8",
+    "label": "neutral",
+    "score": 0.9362346529960632
+  },
+  {
+    "video_id": "8MurqoiB_Rw",
+    "label": "neutral",
+    "score": 0.745838463306427
+  },
+  {
+    "video_id": "8vaoBOBdAxc",
+    "label": "neutral",
+    "score": 0.731621503829956
+  },
+  {
+    "video_id": "8v8vFkPc3i0",
+    "label": "neutral",
+    "score": 0.8886090517044067
+  },
+  {
+    "video_id": "8mhPYTm3kEs",
+    "label": "neutral",
+    "score": 0.9459524750709534
+  },
+  {
+    "video_id": "8K16wa176ns",
+    "label": "negative",
+    "score": 0.663525402545929
+  },
+  {
+    "video_id": "8BEoe34wYfM",
+    "label": "neutral",
+    "score": 0.9125254154205322
+  },
+  {
+    "video_id": "8kMt0fKfgw4",
+    "label": "neutral",
+    "score": 0.8762137293815613
+  },
+  {
+    "video_id": "8BM7SdKRuWo",
+    "label": "negative",
+    "score": 0.5461695790290833
+  },
+  {
+    "video_id": "8cIrHrPIzE0",
+    "label": "neutral",
+    "score": 0.9533936977386475
+  },
+  {
+    "video_id": "8g7EYrD65Jg",
+    "label": "neutral",
+    "score": 0.9545857310295105
+  },
+  {
+    "video_id": "89qu7XioJpE",
+    "label": "negative",
+    "score": 0.6022576093673706
+  },
+  {
+    "video_id": "8B-_jr7lAFU",
+    "label": "negative",
+    "score": 0.7684245705604553
+  },
+  {
+    "video_id": "84b97qSl0po",
+    "label": "neutral",
+    "score": 0.5304602980613708
+  },
+  {
+    "video_id": "7wTm1Vfgk-Q",
+    "label": "neutral",
+    "score": 0.6857935786247253
+  },
+  {
+    "video_id": "7_TRSTw5Ch0",
+    "label": "neutral",
+    "score": 0.6124371290206909
+  },
+  {
+    "video_id": "7UE7UPNkDQc",
+    "label": "neutral",
+    "score": 0.6397056579589844
+  },
+  {
+    "video_id": "7RUzc_T26Nw",
+    "label": "positive",
+    "score": 0.5625078678131104
+  },
+  {
+    "video_id": "83Y0V_CGFiM",
+    "label": "neutral",
+    "score": 0.8042855262756348
+  },
+  {
+    "video_id": "7VGuFLdw7Dw",
+    "label": "negative",
+    "score": 0.8493421077728271
+  },
+  {
+    "video_id": "7TS37ouxlaU",
+    "label": "negative",
+    "score": 0.5678178071975708
+  },
+  {
+    "video_id": "7QDVgByGi5Y",
+    "label": "neutral",
+    "score": 0.5904935598373413
+  },
+  {
+    "video_id": "7W9w0bCFFvQ",
+    "label": "negative",
+    "score": 0.49704709649086
+  },
+  {
+    "video_id": "7dU1zUv6qfk",
+    "label": "negative",
+    "score": 0.7242200970649719
+  },
+  {
+    "video_id": "7nvHpmsJvqs",
+    "label": "negative",
+    "score": 0.6218708753585815
+  },
+  {
+    "video_id": "7BsawiD0Yyc",
+    "label": "neutral",
+    "score": 0.4939981997013092
+  },
+  {
+    "video_id": "7pK6QtDHba8",
+    "label": "negative",
+    "score": 0.5305993556976318
+  },
+  {
+    "video_id": "7bUt3Jpqr50",
+    "label": "negative",
+    "score": 0.7557308077812195
+  },
+  {
+    "video_id": "7GcUmt2d64w",
+    "label": "neutral",
+    "score": 0.8090286254882812
+  },
+  {
+    "video_id": "77qMaUtV030",
+    "label": "neutral",
+    "score": 0.9383860230445862
+  },
+  {
+    "video_id": "6pERZ-gLpgs",
+    "label": "neutral",
+    "score": 0.7819331884384155
+  },
+  {
+    "video_id": "6pPSuc-O7bI",
+    "label": "negative",
+    "score": 0.7483785152435303
+  },
+  {
+    "video_id": "6GkffoFCijc",
+    "label": "neutral",
+    "score": 0.8511843085289001
+  },
+  {
+    "video_id": "6iodvy7u7QE",
+    "label": "neutral",
+    "score": 0.5574585795402527
+  },
+  {
+    "video_id": "6FC_H1Ktres",
+    "label": "neutral",
+    "score": 0.8385822176933289
+  },
+  {
+    "video_id": "6i2L8XcQE1o",
+    "label": "neutral",
+    "score": 0.9534875750541687
+  },
+  {
+    "video_id": "6HV88JkdFdA",
+    "label": "negative",
+    "score": 0.5068044662475586
+  },
+  {
+    "video_id": "6iLHTmwkyKY",
+    "label": "neutral",
+    "score": 0.8773676156997681
+  },
+  {
+    "video_id": "6ezNjVG9dnE",
+    "label": "neutral",
+    "score": 0.4918576776981354
+  },
+  {
+    "video_id": "6en7w1DdxLM",
+    "label": "negative",
+    "score": 0.6852162480354309
+  },
+  {
+    "video_id": "69ShCw3f1T0",
+    "label": "neutral",
+    "score": 0.9309507012367249
+  },
+  {
+    "video_id": "62_UtYoyWo4",
+    "label": "positive",
+    "score": 0.8044528365135193
+  },
+  {
+    "video_id": "6buYAJaXn0s",
+    "label": "neutral",
+    "score": 0.8783456087112427
+  },
+  {
+    "video_id": "5zOTU7rpikw",
+    "label": "neutral",
+    "score": 0.9599476456642151
+  },
+  {
+    "video_id": "6-308IN_zZo",
+    "label": "neutral",
+    "score": 0.9372525215148926
+  },
+  {
+    "video_id": "6DjcPwgfiGs",
+    "label": "neutral",
+    "score": 0.4774019420146942
+  },
+  {
+    "video_id": "61yzY1GqGwA",
+    "label": "negative",
+    "score": 0.6807408928871155
+  },
+  {
+    "video_id": "5t8BQvHOYII",
+    "label": "neutral",
+    "score": 0.6710991263389587
+  },
+  {
+    "video_id": "5tUDT5fTu-E",
+    "label": "neutral",
+    "score": 0.7071220874786377
+  },
+  {
+    "video_id": "5MLEuQ9rJqY",
+    "label": "neutral",
+    "score": 0.9334619641304016
+  },
+  {
+    "video_id": "5K1kWm6zYjo",
+    "label": "neutral",
+    "score": 0.9272364377975464
+  },
+  {
+    "video_id": "5gQbuRO1Sbc",
+    "label": "neutral",
+    "score": 0.5742889046669006
+  },
+  {
+    "video_id": "5pmoVt6kgVw",
+    "label": "negative",
+    "score": 0.6256715059280396
+  },
+  {
+    "video_id": "5FGq8Cyvcxg",
+    "label": "neutral",
+    "score": 0.925748884677887
+  },
+  {
+    "video_id": "5j1vCkR0Hes",
+    "label": "neutral",
+    "score": 0.7285183072090149
+  },
+  {
+    "video_id": "4rv4hUfayhc",
+    "label": "neutral",
+    "score": 0.9272684454917908
+  },
+  {
+    "video_id": "4nMfRpesYfw",
+    "label": "neutral",
+    "score": 0.8104867935180664
+  },
+  {
+    "video_id": "4uOOCvxcfB4",
+    "label": "neutral",
+    "score": 0.6367442607879639
+  },
+  {
+    "video_id": "4_6tGDz6sCc",
+    "label": "neutral",
+    "score": 0.8325559496879578
+  },
+  {
+    "video_id": "4ozfORdyz6I",
+    "label": "negative",
+    "score": 0.5919753313064575
+  },
+  {
+    "video_id": "4g7kwZT4JF8",
+    "label": "negative",
+    "score": 0.5226290225982666
+  },
+  {
+    "video_id": "4Ca9igVOaD8",
+    "label": "neutral",
+    "score": 0.9246158599853516
+  },
+  {
+    "video_id": "4C_dWCtpYdE",
+    "label": "neutral",
+    "score": 0.7976773381233215
+  },
+  {
+    "video_id": "4AyMeUNpnPU",
+    "label": "neutral",
+    "score": 0.8784816265106201
+  },
+  {
+    "video_id": "4LPoKI9mmWc",
+    "label": "neutral",
+    "score": 0.8946717381477356
+  },
+  {
+    "video_id": "49rozBpJ4tc",
+    "label": "positive",
+    "score": 0.72748202085495
+  },
+  {
+    "video_id": "48bDrV5QT84",
+    "label": "negative",
+    "score": 0.6792793869972229
+  },
+  {
+    "video_id": "49-lcJZ-MsE",
+    "label": "neutral",
+    "score": 0.8662619590759277
+  },
+  {
+    "video_id": "45bcFtMTzZE",
+    "label": "neutral",
+    "score": 0.8783442378044128
+  },
+  {
+    "video_id": "3_ttwICA-E8",
+    "label": "negative",
+    "score": 0.520103394985199
+  },
+  {
+    "video_id": "45zJ5gXqXXI",
+    "label": "negative",
+    "score": 0.8089357018470764
+  },
+  {
+    "video_id": "3x-5ThKvjLk",
+    "label": "neutral",
+    "score": 0.6333546042442322
+  },
+  {
+    "video_id": "3y-D0xW8kq0",
+    "label": "neutral",
+    "score": 0.9358362555503845
+  },
+  {
+    "video_id": "3tUk_aC07mA",
+    "label": "neutral",
+    "score": 0.9362324476242065
+  },
+  {
+    "video_id": "3O_KhHuvwdU",
+    "label": "neutral",
+    "score": 0.9494851231575012
+  },
+  {
+    "video_id": "3p6onkesAEA",
+    "label": "negative",
+    "score": 0.8207739591598511
+  },
+  {
+    "video_id": "3P0mnY9xbkc",
+    "label": "neutral",
+    "score": 0.7907454967498779
+  },
+  {
+    "video_id": "3dqRoEjinyk",
+    "label": "neutral",
+    "score": 0.9297307133674622
+  },
+  {
+    "video_id": "3ffXfJuwmgQ",
+    "label": "negative",
+    "score": 0.8846768736839294
+  },
+  {
+    "video_id": "3iGFLvcsHDw",
+    "label": "neutral",
+    "score": 0.8121697306632996
+  },
+  {
+    "video_id": "3hpcK_l7Gg8",
+    "label": "negative",
+    "score": 0.8455914258956909
+  },
+  {
+    "video_id": "3iEiy41JRp8",
+    "label": "negative",
+    "score": 0.5379881262779236
+  },
+  {
+    "video_id": "3J5IXKWhNEA",
+    "label": "negative",
+    "score": 0.7228039503097534
+  },
+  {
+    "video_id": "3BE1q0Of75o",
+    "label": "positive",
+    "score": 0.5480747818946838
+  },
+  {
+    "video_id": "3BrWd9nVDMc",
+    "label": "neutral",
+    "score": 0.7025516033172607
+  },
+  {
+    "video_id": "38DIFQitBaE",
+    "label": "negative",
+    "score": 0.6284471154212952
+  },
+  {
+    "video_id": "2XJD6iW_2Tc",
+    "label": "negative",
+    "score": 0.7045708298683167
+  },
+  {
+    "video_id": "33w-8bZZHck",
+    "label": "neutral",
+    "score": 0.9037603735923767
+  },
+  {
+    "video_id": "2Xw-qwYRoL8",
+    "label": "negative",
+    "score": 0.6185332536697388
+  },
+  {
+    "video_id": "34E6vHMTgwU",
+    "label": "neutral",
+    "score": 0.8871650695800781
+  },
+  {
+    "video_id": "2vrFcPswOVw",
+    "label": "negative",
+    "score": 0.8325911164283752
+  },
+  {
+    "video_id": "2PTArpgAx8E",
+    "label": "neutral",
+    "score": 0.9219250679016113
+  },
+  {
+    "video_id": "2wW4SClKWVo",
+    "label": "neutral",
+    "score": 0.49716126918792725
+  },
+  {
+    "video_id": "2_KSB9PUGZw",
+    "label": "neutral",
+    "score": 0.8707579970359802
+  },
+  {
+    "video_id": "2MKxgxmPbi8",
+    "label": "neutral",
+    "score": 0.9021912813186646
+  },
+  {
+    "video_id": "2iYFgdx7hJo",
+    "label": "neutral",
+    "score": 0.909711480140686
+  },
+  {
+    "video_id": "2MfK0a4Z6vU",
+    "label": "neutral",
+    "score": 0.6959680914878845
+  },
+  {
+    "video_id": "2MJZcrURM4s",
+    "label": "neutral",
+    "score": 0.8065714240074158
+  },
+  {
+    "video_id": "2IuGcxGpAMs",
+    "label": "neutral",
+    "score": 0.7941120862960815
+  },
+  {
+    "video_id": "2LL0fvza-ss",
+    "label": "neutral",
+    "score": 0.941739022731781
+  },
+  {
+    "video_id": "2IvI6QFKfWY",
+    "label": "negative",
+    "score": 0.8769161701202393
+  },
+  {
+    "video_id": "2E5WCKb1YoI",
+    "label": "negative",
+    "score": 0.651976466178894
+  },
+  {
+    "video_id": "2I6qpfhPiE8",
+    "label": "neutral",
+    "score": 0.8816062808036804
+  },
+  {
+    "video_id": "2gDeTBZDJyQ",
+    "label": "neutral",
+    "score": 0.6053696870803833
+  },
+  {
+    "video_id": "21UEkCq44Z0",
+    "label": "neutral",
+    "score": 0.6220377087593079
+  },
+  {
+    "video_id": "2bo6Tv5Sf5Q",
+    "label": "neutral",
+    "score": 0.6846684813499451
+  },
+  {
+    "video_id": "21nLqYAMwQk",
+    "label": "negative",
+    "score": 0.7910807132720947
+  },
+  {
+    "video_id": "2hz9K8ayK60",
+    "label": "neutral",
+    "score": 0.8580138087272644
+  },
+  {
+    "video_id": "2BtF8YzpNgg",
+    "label": "neutral",
+    "score": 0.8805878162384033
+  },
+  {
+    "video_id": "26IXB4GVEjA",
+    "label": "neutral",
+    "score": 0.5342841148376465
+  },
+  {
+    "video_id": "1Xi1QM9Ba9A",
+    "label": "negative",
+    "score": 0.5218266248703003
+  },
+  {
+    "video_id": "1vv8kp5qmNM",
+    "label": "negative",
+    "score": 0.7228659391403198
+  },
+  {
+    "video_id": "1WVQL5gXW0c",
+    "label": "neutral",
+    "score": 0.7946233153343201
+  },
+  {
+    "video_id": "1x0dkvuTC6g",
+    "label": "negative",
+    "score": 0.5501500964164734
+  },
+  {
+    "video_id": "1V3eZSy_k4E",
+    "label": "negative",
+    "score": 0.5535638928413391
+  },
+  {
+    "video_id": "1tfyEfQXC-0",
+    "label": "negative",
+    "score": 0.7041471004486084
+  },
+  {
+    "video_id": "1PScrjmGPj0",
+    "label": "neutral",
+    "score": 0.9399701952934265
+  },
+  {
+    "video_id": "1HFIEb-kTNU",
+    "label": "neutral",
+    "score": 0.9054361581802368
+  },
+  {
+    "video_id": "1G7HdP9x934",
+    "label": "positive",
+    "score": 0.5004411339759827
+  },
+  {
+    "video_id": "1gAcA7sJlCc",
+    "label": "negative",
+    "score": 0.6532114744186401
+  },
+  {
+    "video_id": "1GueHhT1jV0",
+    "label": "neutral",
+    "score": 0.7966992259025574
+  },
+  {
+    "video_id": "1C7ENeVh6iQ",
+    "label": "neutral",
+    "score": 0.660781979560852
+  },
+  {
+    "video_id": "184vYwMtI24",
+    "label": "neutral",
+    "score": 0.6968842148780823
+  },
+  {
+    "video_id": "1BiFJjRNuik",
+    "label": "neutral",
+    "score": 0.8683968782424927
+  },
+  {
+    "video_id": "1b8bBvoIFHY",
+    "label": "neutral",
+    "score": 0.9382420182228088
+  },
+  {
+    "video_id": "0_1xJfKqJvQ",
+    "label": "negative",
+    "score": 0.5069884657859802
+  },
+  {
+    "video_id": "17lqu_46ayU",
+    "label": "neutral",
+    "score": 0.7431350946426392
+  },
+  {
+    "video_id": "13kXfFlfUdQ",
+    "label": "neutral",
+    "score": 0.9259642958641052
+  },
+  {
+    "video_id": "0vfW763SU5Q",
+    "label": "negative",
+    "score": 0.7542906999588013
+  },
+  {
+    "video_id": "0x-5g3fBFrg",
+    "label": "negative",
+    "score": 0.7064864039421082
+  },
+  {
+    "video_id": "0v4Wn6qEypY",
+    "label": "neutral",
+    "score": 0.9115511775016785
+  },
+  {
+    "video_id": "11LxEDUhitQ",
+    "label": "negative",
+    "score": 0.8143216967582703
+  },
+  {
+    "video_id": "0_C-joO_kH0",
+    "label": "neutral",
+    "score": 0.7819071412086487
+  },
+  {
+    "video_id": "0unKYffkP90",
+    "label": "positive",
+    "score": 0.4599205553531647
+  },
+  {
+    "video_id": "0sG_y1Or684",
+    "label": "negative",
+    "score": 0.5037469267845154
+  },
+  {
+    "video_id": "0ozWs13Msus",
+    "label": "neutral",
+    "score": 0.9378199577331543
+  },
+  {
+    "video_id": "0jFspnSBoIk",
+    "label": "neutral",
+    "score": 0.5500326752662659
+  },
+  {
+    "video_id": "0RhvjzTAejA",
+    "label": "negative",
+    "score": 0.5612514019012451
+  },
+  {
+    "video_id": "0OM1zKr6sSo",
+    "label": "neutral",
+    "score": 0.922165036201477
+  },
+  {
+    "video_id": "0LMlOQkvc5k",
+    "label": "positive",
+    "score": 0.6584750413894653
+  },
+  {
+    "video_id": "0NfCRavSjvg",
+    "label": "neutral",
+    "score": 0.49837812781333923
+  },
+  {
+    "video_id": "0L937gV7YZ4",
+    "label": "neutral",
+    "score": 0.8199529051780701
+  },
+  {
+    "video_id": "04xztKJ0qqY",
+    "label": "negative",
+    "score": 0.5952145457267761
+  },
+  {
+    "video_id": "0jA4Wy1a8_E",
+    "label": "neutral",
+    "score": 0.7021190524101257
+  },
+  {
+    "video_id": "0H3oUHRAnUo",
+    "label": "neutral",
+    "score": 0.600172758102417
+  },
+  {
+    "video_id": "01qndYNyykU",
+    "label": "neutral",
+    "score": 0.5193142890930176
+  },
+  {
+    "video_id": "-s1h1_tNfgU",
+    "label": "negative",
+    "score": 0.5591869354248047
+  },
+  {
+    "video_id": "-9GMKrV0etk",
+    "label": "neutral",
+    "score": 0.8702281713485718
+  },
+  {
+    "video_id": "-7kl_KPvtDs",
+    "label": "neutral",
+    "score": 0.7758209705352783
+  },
+  {
+    "video_id": "-6WlAFscccs",
+    "label": "neutral",
+    "score": 0.6815245747566223
+  },
+  {
+    "video_id": "-3vGS5PKHNA",
+    "label": "negative",
+    "score": 0.7553503513336182
+  },
+  {
+    "video_id": "_zufKmNzaSI",
+    "label": "negative",
+    "score": 0.5030372142791748
+  },
+  {
+    "video_id": "_UbEDHjhxCc",
+    "label": "negative",
+    "score": 0.6723740696907043
+  },
+  {
+    "video_id": "_wa0dVL2MZ0",
+    "label": "negative",
+    "score": 0.7581987380981445
+  },
+  {
+    "video_id": "_OnTvtFxisk",
+    "label": "negative",
+    "score": 0.7793800234794617
+  },
+  {
+    "video_id": "_T2dCI_uRnc",
+    "label": "negative",
+    "score": 0.7117470502853394
+  },
+  {
+    "video_id": "_IUyCqamtyQ",
+    "label": "positive",
+    "score": 0.9220119118690491
+  },
+  {
+    "video_id": "_jJxqAWgWgI",
+    "label": "neutral",
+    "score": 0.9387131333351135
+  },
+  {
+    "video_id": "__YwLUbiSjQ",
+    "label": "negative",
+    "score": 0.643692135810852
+  },
+  {
+    "video_id": "_ncosiz3No8",
+    "label": "negative",
+    "score": 0.8410030007362366
+  },
+  {
+    "video_id": "_ikHkshdb-g",
+    "label": "neutral",
+    "score": 0.8776477575302124
+  },
+  {
+    "video_id": "_gE-NhwhCKM",
+    "label": "neutral",
+    "score": 0.7166839241981506
+  },
+  {
+    "video_id": "_cY7bNwUzpU",
+    "label": "negative",
+    "score": 0.8633095622062683
+  },
+  {
+    "video_id": "_8qZsxC-PyM",
+    "label": "neutral",
+    "score": 0.5500568747520447
+  },
+  {
+    "video_id": "_897JVE6DcQ",
+    "label": "neutral",
+    "score": 0.8457274436950684
+  },
+  {
+    "video_id": "_6dRRfnYJws",
+    "label": "neutral",
+    "score": 0.5527271032333374
+  },
+  {
+    "video_id": "_AqwiElXxoE",
+    "label": "positive",
+    "score": 0.9373222589492798
+  },
+  {
+    "video_id": "_1bRNr-UJHw",
+    "label": "neutral",
+    "score": 0.7984329462051392
+  },
+  {
+    "video_id": "zw-LE-6oSG8",
+    "label": "neutral",
+    "score": 0.9405077695846558
+  },
+  {
+    "video_id": "zzbMPe-tCb8",
+    "label": "negative",
+    "score": 0.6129932403564453
+  },
+  {
+    "video_id": "zUfvg6JDKN0",
+    "label": "negative",
+    "score": 0.9031826853752136
+  },
+  {
+    "video_id": "zWP4khJSuv8",
+    "label": "negative",
+    "score": 0.5869293212890625
+  },
+  {
+    "video_id": "ZZ46YI7d4lE",
+    "label": "neutral",
+    "score": 0.8985878825187683
+  },
+  {
+    "video_id": "zvOLmBEAeOM",
+    "label": "neutral",
+    "score": 0.6829647421836853
+  },
+  {
+    "video_id": "zTYMGYQ_bEU",
+    "label": "negative",
+    "score": 0.699433445930481
+  },
+  {
+    "video_id": "ZXlvLso1a-g",
+    "label": "neutral",
+    "score": 0.7154079079627991
+  },
+  {
+    "video_id": "ztv94n-GuVM",
+    "label": "neutral",
+    "score": 0.8424545526504517
+  },
+  {
+    "video_id": "Zt3LYXgJiYs",
+    "label": "negative",
+    "score": 0.5956324338912964
+  },
+  {
+    "video_id": "ZTKZvCrssK8",
+    "label": "neutral",
+    "score": 0.7886850237846375
+  },
+  {
+    "video_id": "ZqrDizejUEE",
+    "label": "neutral",
+    "score": 0.9380900859832764
+  },
+  {
+    "video_id": "zsr-PtIhTF0",
+    "label": "neutral",
+    "score": 0.6594929099082947
+  },
+  {
+    "video_id": "ZP_yoVhnCDg",
+    "label": "neutral",
+    "score": 0.8558748960494995
+  },
+  {
+    "video_id": "zQb_D098hlw",
+    "label": "neutral",
+    "score": 0.5666322112083435
+  },
+  {
+    "video_id": "zLdw_4c9QAM",
+    "label": "negative",
+    "score": 0.714610755443573
+  },
+  {
+    "video_id": "ZR0FLD4Gmfo",
+    "label": "negative",
+    "score": 0.7596104741096497
+  },
+  {
+    "video_id": "zT1V6kLRrxA",
+    "label": "neutral",
+    "score": 0.791904628276825
+  },
+  {
+    "video_id": "ZcW3-zE4GlU",
+    "label": "negative",
+    "score": 0.6585081219673157
+  },
+  {
+    "video_id": "zi9knajcejY",
+    "label": "neutral",
+    "score": 0.8312979936599731
+  },
+  {
+    "video_id": "zgcDXs5yv-0",
+    "label": "neutral",
+    "score": 0.9302506446838379
+  },
+  {
+    "video_id": "ZGNUcf_dC6Q",
+    "label": "neutral",
+    "score": 0.7674180865287781
+  },
+  {
+    "video_id": "Zht5RwIh2-k",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "ZFESY7u1VRI",
+    "label": "neutral",
+    "score": 0.9355307817459106
+  },
+  {
+    "video_id": "ZeceNGSDP4U",
+    "label": "negative",
+    "score": 0.8576291799545288
+  },
+  {
+    "video_id": "zHQ0vA3EsHU",
+    "label": "neutral",
+    "score": 0.7858412861824036
+  },
+  {
+    "video_id": "Zea7JekAgDE",
+    "label": "neutral",
+    "score": 0.5613669753074646
+  },
+  {
+    "video_id": "zB5gEp2ly8A",
+    "label": "neutral",
+    "score": 0.6224891543388367
+  },
+  {
+    "video_id": "Z2GSEvi758w",
+    "label": "negative",
+    "score": 0.6363985538482666
+  },
+  {
+    "video_id": "Z0OhlmYUwpM",
+    "label": "neutral",
+    "score": 0.7546090483665466
+  },
+  {
+    "video_id": "YwCUTMg7oY8",
+    "label": "negative",
+    "score": 0.5118815302848816
+  },
+  {
+    "video_id": "z-vHqNEVp-A",
+    "label": "neutral",
+    "score": 0.6373385787010193
+  },
+  {
+    "video_id": "z2rPlQ0wFu4",
+    "label": "negative",
+    "score": 0.6754207611083984
+  },
+  {
+    "video_id": "yvlSVllOZGc",
+    "label": "neutral",
+    "score": 0.9310095906257629
+  },
+  {
+    "video_id": "yuBly_jfYAw",
+    "label": "neutral",
+    "score": 0.9185508489608765
+  },
+  {
+    "video_id": "YVNBgCiULG0",
+    "label": "neutral",
+    "score": 0.6287733316421509
+  },
+  {
+    "video_id": "YUJl2vWNsWU",
+    "label": "neutral",
+    "score": 0.8202570676803589
+  },
+  {
+    "video_id": "Yt2qJQBNa2Y",
+    "label": "negative",
+    "score": 0.7727352976799011
+  },
+  {
+    "video_id": "yq4iDOiXTxI",
+    "label": "negative",
+    "score": 0.6307411193847656
+  },
+  {
+    "video_id": "YpErgXZSS2s",
+    "label": "neutral",
+    "score": 0.8093395829200745
+  },
+  {
+    "video_id": "yOYL3S1THmY",
+    "label": "negative",
+    "score": 0.503767192363739
+  },
+  {
+    "video_id": "YSXQUA7dAu8",
+    "label": "neutral",
+    "score": 0.6520946621894836
+  },
+  {
+    "video_id": "yohcT8Srstw",
+    "label": "neutral",
+    "score": 0.9156539440155029
+  },
+  {
+    "video_id": "yOhEV9quHic",
+    "label": "neutral",
+    "score": 0.7412832975387573
+  },
+  {
+    "video_id": "yMrKbY4YMzQ",
+    "label": "neutral",
+    "score": 0.8512721657752991
+  },
+  {
+    "video_id": "YlxXFtyOQiQ",
+    "label": "neutral",
+    "score": 0.8933197259902954
+  },
+  {
+    "video_id": "yKWe25rKSpU",
+    "label": "neutral",
+    "score": 0.8471510410308838
+  },
+  {
+    "video_id": "yM5hqwmJO2g",
+    "label": "positive",
+    "score": 0.5112895369529724
+  },
+  {
+    "video_id": "yldW4yLN5ds",
+    "label": "neutral",
+    "score": 0.8573138117790222
+  },
+  {
+    "video_id": "yGJJBLXn2DI",
+    "label": "neutral",
+    "score": 0.5326626300811768
+  },
+  {
+    "video_id": "YgCni-fhTKw",
+    "label": "neutral",
+    "score": 0.9421263337135315
+  },
+  {
+    "video_id": "YiuXPY1LvnQ",
+    "label": "neutral",
+    "score": 0.9464249014854431
+  },
+  {
+    "video_id": "YGEgelAiUf0",
+    "label": "neutral",
+    "score": 0.9519322514533997
+  },
+  {
+    "video_id": "YJIIxfFgnrY",
+    "label": "neutral",
+    "score": 0.912686824798584
+  },
+  {
+    "video_id": "yjvILEWJiY8",
+    "label": "negative",
+    "score": 0.5363512635231018
+  },
+  {
+    "video_id": "yfAoqXo24wo",
+    "label": "neutral",
+    "score": 0.9155927896499634
+  },
+  {
+    "video_id": "YDvsBbKfLPA",
+    "label": "neutral",
+    "score": 0.8757297396659851
+  },
+  {
+    "video_id": "yfWzi5yJDmw",
+    "label": "negative",
+    "score": 0.7659106254577637
+  },
+  {
+    "video_id": "yBwbreYKZEk",
+    "label": "negative",
+    "score": 0.7039727568626404
+  },
+  {
+    "video_id": "yDeMSf_mRg8",
+    "label": "neutral",
+    "score": 0.9297648668289185
+  },
+  {
+    "video_id": "YD7DApSt8DY",
+    "label": "neutral",
+    "score": 0.9264822006225586
+  },
+  {
+    "video_id": "YcqCXUR14bY",
+    "label": "neutral",
+    "score": 0.8285878896713257
+  },
+  {
+    "video_id": "yfMS9V5I2NU",
+    "label": "negative",
+    "score": 0.49685078859329224
+  },
+  {
+    "video_id": "Y4Q6DwEwQ5Q",
+    "label": "neutral",
+    "score": 0.9145488739013672
+  },
+  {
+    "video_id": "y60lmEgOoBY",
+    "label": "neutral",
+    "score": 0.6907596588134766
+  },
+  {
+    "video_id": "Y3EQ1z0Qv3Y",
+    "label": "neutral",
+    "score": 0.6523462533950806
+  },
+  {
+    "video_id": "Y0y5hwBFf-k",
+    "label": "neutral",
+    "score": 0.6931337118148804
+  },
+  {
+    "video_id": "Y69uNORv7_I",
+    "label": "negative",
+    "score": 0.6633825898170471
+  },
+  {
+    "video_id": "X_qo4IP_L5k",
+    "label": "neutral",
+    "score": 0.7905980944633484
+  },
+  {
+    "video_id": "y09ZolAD3DQ",
+    "label": "positive",
+    "score": 0.5206959247589111
+  },
+  {
+    "video_id": "y5uM2dcFBcs",
+    "label": "neutral",
+    "score": 0.9135773777961731
+  },
+  {
+    "video_id": "xzp0NOIfLVw",
+    "label": "neutral",
+    "score": 0.7232707142829895
+  },
+  {
+    "video_id": "XWq5kBlakcQ",
+    "label": "neutral",
+    "score": 0.7151497006416321
+  },
+  {
+    "video_id": "xwZYQx_Xubs",
+    "label": "neutral",
+    "score": 0.6193863153457642
+  },
+  {
+    "video_id": "XYviM5xevC8",
+    "label": "neutral",
+    "score": 0.6117163300514221
+  },
+  {
+    "video_id": "xXUJhraFkuw",
+    "label": "neutral",
+    "score": 0.9507798552513123
+  },
+  {
+    "video_id": "Xxs6dUcCkHg",
+    "label": "neutral",
+    "score": 0.6881226301193237
+  },
+  {
+    "video_id": "xWYvG7YDFtc",
+    "label": "neutral",
+    "score": 0.8936222195625305
+  },
+  {
+    "video_id": "XWJmwivZL6w",
+    "label": "neutral",
+    "score": 0.5853351354598999
+  },
+  {
+    "video_id": "xUec1EJc9nw",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "XtrsN5TzlCU",
+    "label": "positive",
+    "score": 0.8968396186828613
+  },
+  {
+    "video_id": "xuGyVh_pqmM",
+    "label": "negative",
+    "score": 0.8169161677360535
+  },
+  {
+    "video_id": "xt4Dbk9LoeM",
+    "label": "negative",
+    "score": 0.5212715864181519
+  },
+  {
+    "video_id": "xrxOCMYJQLI",
+    "label": "negative",
+    "score": 0.6659024953842163
+  },
+  {
+    "video_id": "xRwYdpSMqJ4",
+    "label": "neutral",
+    "score": 0.8755983710289001
+  },
+  {
+    "video_id": "xs4wYQGq4b8",
+    "label": "neutral",
+    "score": 0.6911612749099731
+  },
+  {
+    "video_id": "xpvHia-CsWg",
+    "label": "neutral",
+    "score": 0.6896503567695618
+  },
+  {
+    "video_id": "Xq-kVZTrTc0",
+    "label": "neutral",
+    "score": 0.624521791934967
+  },
+  {
+    "video_id": "xQRIH3idfjc",
+    "label": "neutral",
+    "score": 0.8711220026016235
+  },
+  {
+    "video_id": "xP3sIyMtNh8",
+    "label": "negative",
+    "score": 0.7021182775497437
+  },
+  {
+    "video_id": "xofomxglsYQ",
+    "label": "neutral",
+    "score": 0.8722991943359375
+  },
+  {
+    "video_id": "xOKLryn6uuM",
+    "label": "neutral",
+    "score": 0.9275223612785339
+  },
+  {
+    "video_id": "xJBzN3GKhWo",
+    "label": "negative",
+    "score": 0.765595018863678
+  },
+  {
+    "video_id": "XPcofwTalKU",
+    "label": "neutral",
+    "score": 0.8360069990158081
+  },
+  {
+    "video_id": "xkHkZs3M-nA",
+    "label": "neutral",
+    "score": 0.8525378108024597
+  },
+  {
+    "video_id": "xpUDuNeVdqQ",
+    "label": "neutral",
+    "score": 0.8094502091407776
+  },
+  {
+    "video_id": "XGV9gW19Gag",
+    "label": "neutral",
+    "score": 0.8349156379699707
+  },
+  {
+    "video_id": "xepyGF-BWhY",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "xf_YtvwwL8s",
+    "label": "neutral",
+    "score": 0.8521668910980225
+  },
+  {
+    "video_id": "XCcZiJeDJfc",
+    "label": "neutral",
+    "score": 0.7607799768447876
+  },
+  {
+    "video_id": "XcnwuQZasCA",
+    "label": "negative",
+    "score": 0.7483407258987427
+  },
+  {
+    "video_id": "XCXhX2zg0vg",
+    "label": "negative",
+    "score": 0.6152642369270325
+  },
+  {
+    "video_id": "XDCc1_ixo3U",
+    "label": "neutral",
+    "score": 0.8095006942749023
+  },
+  {
+    "video_id": "xfLt4A43q6s",
+    "label": "neutral",
+    "score": 0.4983217120170593
+  },
+  {
+    "video_id": "x9f2tEuQkVE",
+    "label": "neutral",
+    "score": 0.5727934241294861
+  },
+  {
+    "video_id": "x8AdsQAzegw",
+    "label": "neutral",
+    "score": 0.6591264009475708
+  },
+  {
+    "video_id": "x0PAlpdXcvY",
+    "label": "negative",
+    "score": 0.5109385848045349
+  },
+  {
+    "video_id": "X2cQ_1-Xs1M",
+    "label": "neutral",
+    "score": 0.6650427579879761
+  },
+  {
+    "video_id": "w_7MlpFSiR0",
+    "label": "neutral",
+    "score": 0.8574070930480957
+  },
+  {
+    "video_id": "X7_n6xc9JLA",
+    "label": "neutral",
+    "score": 0.7585723400115967
+  },
+  {
+    "video_id": "w_2MaDLB0Kc",
+    "label": "negative",
+    "score": 0.7684684991836548
+  },
+  {
+    "video_id": "X-p62Tuhnnc",
+    "label": "neutral",
+    "score": 0.8366630673408508
+  },
+  {
+    "video_id": "WZtgkuNv510",
+    "label": "negative",
+    "score": 0.5464439988136292
+  },
+  {
+    "video_id": "wzkFA0Qv5q4",
+    "label": "neutral",
+    "score": 0.9552686810493469
+  },
+  {
+    "video_id": "wX5I5xwEorA",
+    "label": "neutral",
+    "score": 0.6109490394592285
+  },
+  {
+    "video_id": "WY4vVYHDmpw",
+    "label": "neutral",
+    "score": 0.8188332915306091
+  },
+  {
+    "video_id": "wYgoXU_dkVs",
+    "label": "positive",
+    "score": 0.6997843384742737
+  },
+  {
+    "video_id": "Wvea6uwN_Eo",
+    "label": "neutral",
+    "score": 0.8239621520042419
+  },
+  {
+    "video_id": "WyVoXdwL2SQ",
+    "label": "neutral",
+    "score": 0.76693195104599
+  },
+  {
+    "video_id": "WZmGBEm8XdM",
+    "label": "neutral",
+    "score": 0.8773298859596252
+  },
+  {
+    "video_id": "WU4YK-SxLhg",
+    "label": "neutral",
+    "score": 0.8936910033226013
+  },
+  {
+    "video_id": "WqOc34Q344Q",
+    "label": "negative",
+    "score": 0.7052274942398071
+  },
+  {
+    "video_id": "wurhIsqTzZQ",
+    "label": "neutral",
+    "score": 0.8863378167152405
+  },
+  {
+    "video_id": "wtv3KbBTyFU",
+    "label": "neutral",
+    "score": 0.9173558354377747
+  },
+  {
+    "video_id": "WRHez7OXCS8",
+    "label": "neutral",
+    "score": 0.5589179992675781
+  },
+  {
+    "video_id": "wsoNE2OwTD8",
+    "label": "neutral",
+    "score": 0.6653497219085693
+  },
+  {
+    "video_id": "wuS0QLOyALE",
+    "label": "neutral",
+    "score": 0.741025447845459
+  },
+  {
+    "video_id": "WnztkVdg2h8",
+    "label": "neutral",
+    "score": 0.5054800510406494
+  },
+  {
+    "video_id": "wt6SIE7BXS8",
+    "label": "neutral",
+    "score": 0.8940156698226929
+  },
+  {
+    "video_id": "WNpdJiL992Y",
+    "label": "negative",
+    "score": 0.8359085917472839
+  },
+  {
+    "video_id": "WMfA9LrCQwg",
+    "label": "neutral",
+    "score": 0.6116889715194702
+  },
+  {
+    "video_id": "wNjC4C3cE_U",
+    "label": "neutral",
+    "score": 0.6393724679946899
+  },
+  {
+    "video_id": "whNMeAHXgXE",
+    "label": "negative",
+    "score": 0.7581114172935486
+  },
+  {
+    "video_id": "Wihn7Q7O7eI",
+    "label": "negative",
+    "score": 0.8756126165390015
+  },
+  {
+    "video_id": "wIMwIvyUYbA",
+    "label": "negative",
+    "score": 0.8234469294548035
+  },
+  {
+    "video_id": "WN-nfEoMkj4",
+    "label": "neutral",
+    "score": 0.7358190417289734
+  },
+  {
+    "video_id": "WHTImv1aObo",
+    "label": "neutral",
+    "score": 0.7774942517280579
+  },
+  {
+    "video_id": "WhMkc5bgVoM",
+    "label": "neutral",
+    "score": 0.8473936319351196
+  },
+  {
+    "video_id": "wgkhrcIdsgE",
+    "label": "negative",
+    "score": 0.6830068826675415
+  },
+  {
+    "video_id": "wf8-xKLisaM",
+    "label": "negative",
+    "score": 0.6036236882209778
+  },
+  {
+    "video_id": "wgEVxiWp0qg",
+    "label": "neutral",
+    "score": 0.8471489548683167
+  },
+  {
+    "video_id": "WayXcBRbzwg",
+    "label": "neutral",
+    "score": 0.9109529852867126
+  },
+  {
+    "video_id": "WcgtluXctfw",
+    "label": "neutral",
+    "score": 0.808754563331604
+  },
+  {
+    "video_id": "WCdtw77Q8j4",
+    "label": "negative",
+    "score": 0.8165513873100281
+  },
+  {
+    "video_id": "wf3UW-odCpg",
+    "label": "neutral",
+    "score": 0.9205461144447327
+  },
+  {
+    "video_id": "wavYax4EfZQ",
+    "label": "neutral",
+    "score": 0.9317097663879395
+  },
+  {
+    "video_id": "w9s1bApcyLE",
+    "label": "neutral",
+    "score": 0.7715429067611694
+  },
+  {
+    "video_id": "waFl1hr-XBY",
+    "label": "neutral",
+    "score": 0.6302419304847717
+  },
+  {
+    "video_id": "w6TBomYg6Jw",
+    "label": "neutral",
+    "score": 0.761011004447937
+  },
+  {
+    "video_id": "W8nThq62Vb4",
+    "label": "positive",
+    "score": 0.6593284606933594
+  },
+  {
+    "video_id": "w6HFQ_ECNiI",
+    "label": "neutral",
+    "score": 0.8927942514419556
+  },
+  {
+    "video_id": "w9wJB570FfE",
+    "label": "negative",
+    "score": 0.8466269373893738
+  },
+  {
+    "video_id": "wA7jcOieCCw",
+    "label": "positive",
+    "score": 0.5858192443847656
+  },
+  {
+    "video_id": "W6DlFd4Hp2o",
+    "label": "negative",
+    "score": 0.5027342438697815
+  },
+  {
+    "video_id": "w3mLUD1LsfI",
+    "label": "neutral",
+    "score": 0.5618343949317932
+  },
+  {
+    "video_id": "w5tcdsnKay0",
+    "label": "neutral",
+    "score": 0.5819216966629028
+  },
+  {
+    "video_id": "V_yEGNkG-M8",
+    "label": "negative",
+    "score": 0.7103644609451294
+  },
+  {
+    "video_id": "W0fVnB-V1TA",
+    "label": "negative",
+    "score": 0.5144166946411133
+  },
+  {
+    "video_id": "vzR9OU-Vc1A",
+    "label": "neutral",
+    "score": 0.7345303297042847
+  },
+  {
+    "video_id": "w5jksVb_8T0",
+    "label": "neutral",
+    "score": 0.93880295753479
+  },
+  {
+    "video_id": "W3NjRggl4r8",
+    "label": "negative",
+    "score": 0.5668644309043884
+  },
+  {
+    "video_id": "W2CDQqkTpvY",
+    "label": "neutral",
+    "score": 0.9418046474456787
+  },
+  {
+    "video_id": "VyY3OJtXnuY",
+    "label": "neutral",
+    "score": 0.7370507121086121
+  },
+  {
+    "video_id": "VvOH1-7esOs",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "Vv2HBfUINjQ",
+    "label": "neutral",
+    "score": 0.9294538497924805
+  },
+  {
+    "video_id": "vxe05M3Lwgo",
+    "label": "neutral",
+    "score": 0.893887460231781
+  },
+  {
+    "video_id": "VUnWcyN36Nc",
+    "label": "neutral",
+    "score": 0.49650952219963074
+  },
+  {
+    "video_id": "VvARHwtA7DE",
+    "label": "negative",
+    "score": 0.7423554062843323
+  },
+  {
+    "video_id": "vuihc-sKfrE",
+    "label": "neutral",
+    "score": 0.8817121982574463
+  },
+  {
+    "video_id": "VrhYz4CL70I",
+    "label": "neutral",
+    "score": 0.8761495351791382
+  },
+  {
+    "video_id": "vOTiJkg1voo",
+    "label": "neutral",
+    "score": 0.7734134197235107
+  },
+  {
+    "video_id": "VNBj7Pw74B4",
+    "label": "neutral",
+    "score": 0.8708550333976746
+  },
+  {
+    "video_id": "Vn_JO9qgqmY",
+    "label": "neutral",
+    "score": 0.5511539578437805
+  },
+  {
+    "video_id": "vnE8C863cPc",
+    "label": "neutral",
+    "score": 0.829292356967926
+  },
+  {
+    "video_id": "vmcOUUOzW3o",
+    "label": "neutral",
+    "score": 0.555980384349823
+  },
+  {
+    "video_id": "vqRMdp4Mq5k",
+    "label": "negative",
+    "score": 0.684963047504425
+  },
+  {
+    "video_id": "Viu7AWJvavU",
+    "label": "neutral",
+    "score": 0.9312634468078613
+  },
+  {
+    "video_id": "Vi60Ptw--tE",
+    "label": "negative",
+    "score": 0.5605524778366089
+  },
+  {
+    "video_id": "ViSl1cZ8BrE",
+    "label": "negative",
+    "score": 0.6847109198570251
+  },
+  {
+    "video_id": "VGtx-OoMkVE",
+    "label": "negative",
+    "score": 0.6390703916549683
+  },
+  {
+    "video_id": "VLWXteORc80",
+    "label": "neutral",
+    "score": 0.901483416557312
+  },
+  {
+    "video_id": "VFLq88jaQXY",
+    "label": "neutral",
+    "score": 0.8978012800216675
+  },
+  {
+    "video_id": "VLD3FMtn9KQ",
+    "label": "negative",
+    "score": 0.5951671004295349
+  },
+  {
+    "video_id": "vfszY1JYbMc",
+    "label": "positive",
+    "score": 0.6193068027496338
+  },
+  {
+    "video_id": "viC1CMHmf4w",
+    "label": "negative",
+    "score": 0.6589478254318237
+  },
+  {
+    "video_id": "vF30ALTD0IY",
+    "label": "negative",
+    "score": 0.6621783375740051
+  },
+  {
+    "video_id": "vephP0SkqQE",
+    "label": "neutral",
+    "score": 0.8930708169937134
+  },
+  {
+    "video_id": "VAwKcdjqAT8",
+    "label": "neutral",
+    "score": 0.8373035192489624
+  },
+  {
+    "video_id": "V3kNZeUWSxM",
+    "label": "neutral",
+    "score": 0.9555368423461914
+  },
+  {
+    "video_id": "v5kB3vb54BQ",
+    "label": "positive",
+    "score": 0.8142656087875366
+  },
+  {
+    "video_id": "V37xZgRDDwc",
+    "label": "neutral",
+    "score": 0.8118547201156616
+  },
+  {
+    "video_id": "V4iF_dDg3nM",
+    "label": "neutral",
+    "score": 0.7301204800605774
+  },
+  {
+    "video_id": "v1wlXb_VFZk",
+    "label": "neutral",
+    "score": 0.9414364099502563
+  },
+  {
+    "video_id": "VB_hIPwTMrU",
+    "label": "neutral",
+    "score": 0.5544210076332092
+  },
+  {
+    "video_id": "uYr0kUiuLPY",
+    "label": "neutral",
+    "score": 0.6633632779121399
+  },
+  {
+    "video_id": "V0_PRTLuagE",
+    "label": "neutral",
+    "score": 0.6958739757537842
+  },
+  {
+    "video_id": "ux8l1BuDOUY",
+    "label": "neutral",
+    "score": 0.9403597712516785
+  },
+  {
+    "video_id": "uZWfVgfCCig",
+    "label": "neutral",
+    "score": 0.8796733617782593
+  },
+  {
+    "video_id": "v0aSJhGe4MY",
+    "label": "neutral",
+    "score": 0.6986203789710999
+  },
+  {
+    "video_id": "uz_EAqGYsos",
+    "label": "neutral",
+    "score": 0.9416354894638062
+  },
+  {
+    "video_id": "UXoHKn2WgTQ",
+    "label": "neutral",
+    "score": 0.8083392977714539
+  },
+  {
+    "video_id": "Uyrx-5Kr8y8",
+    "label": "neutral",
+    "score": 0.7540609836578369
+  },
+  {
+    "video_id": "UtQt8DTPimM",
+    "label": "negative",
+    "score": 0.8369594812393188
+  },
+  {
+    "video_id": "Usv5Qrbx9Fo",
+    "label": "neutral",
+    "score": 0.8582783937454224
+  },
+  {
+    "video_id": "unpkh7jM3gg",
+    "label": "neutral",
+    "score": 0.7087143659591675
+  },
+  {
+    "video_id": "UJC_3zOgAv0",
+    "label": "negative",
+    "score": 0.5231395959854126
+  },
+  {
+    "video_id": "UHV_Y32q5ho",
+    "label": "neutral",
+    "score": 0.7442898154258728
+  },
+  {
+    "video_id": "Ug5j5CVaXdE",
+    "label": "neutral",
+    "score": 0.9369451999664307
+  },
+  {
+    "video_id": "UgpN-8YorYQ",
+    "label": "negative",
+    "score": 0.8481401205062866
+  },
+  {
+    "video_id": "ugAc5lMhIxM",
+    "label": "negative",
+    "score": 0.5253791213035583
+  },
+  {
+    "video_id": "ugkQXwlDI9w",
+    "label": "neutral",
+    "score": 0.5981251001358032
+  },
+  {
+    "video_id": "UFgHgSmZF0U",
+    "label": "positive",
+    "score": 0.8874505758285522
+  },
+  {
+    "video_id": "ugFCqQJVknk",
+    "label": "neutral",
+    "score": 0.5988072156906128
+  },
+  {
+    "video_id": "uEAOuP7ikq0",
+    "label": "neutral",
+    "score": 0.9283916354179382
+  },
+  {
+    "video_id": "U7se31E37G8",
+    "label": "negative",
+    "score": 0.8374329805374146
+  },
+  {
+    "video_id": "UF3DHPfya6U",
+    "label": "neutral",
+    "score": 0.876213788986206
+  },
+  {
+    "video_id": "uE0q1Cjuu-I",
+    "label": "neutral",
+    "score": 0.5237991809844971
+  },
+  {
+    "video_id": "U6jwUWCdcX4",
+    "label": "neutral",
+    "score": 0.9023178219795227
+  },
+  {
+    "video_id": "u837osUs7t4",
+    "label": "neutral",
+    "score": 0.8947225213050842
+  },
+  {
+    "video_id": "ub458vNVEfg",
+    "label": "negative",
+    "score": 0.6016672849655151
+  },
+  {
+    "video_id": "Ua6qGgHQ8GA",
+    "label": "negative",
+    "score": 0.6149223446846008
+  },
+  {
+    "video_id": "U60zQv23NjY",
+    "label": "neutral",
+    "score": 0.941834032535553
+  },
+  {
+    "video_id": "U5i6A19W-40",
+    "label": "negative",
+    "score": 0.6625211238861084
+  },
+  {
+    "video_id": "U2XUNKcKtx0",
+    "label": "neutral",
+    "score": 0.8502840995788574
+  },
+  {
+    "video_id": "u1TZBD6dJXY",
+    "label": "neutral",
+    "score": 0.917921245098114
+  },
+  {
+    "video_id": "U-W3W8p9R2g",
+    "label": "negative",
+    "score": 0.8117880821228027
+  },
+  {
+    "video_id": "TxoAYWg64Ao",
+    "label": "neutral",
+    "score": 0.938184916973114
+  },
+  {
+    "video_id": "U-8mdewY4f4",
+    "label": "neutral",
+    "score": 0.8631874322891235
+  },
+  {
+    "video_id": "U-J-Nd9f3xs",
+    "label": "negative",
+    "score": 0.5063446164131165
+  },
+  {
+    "video_id": "tycNvxKIkYo",
+    "label": "negative",
+    "score": 0.6427509188652039
+  },
+  {
+    "video_id": "TyekUDJLOiM",
+    "label": "positive",
+    "score": 0.7771208882331848
+  },
+  {
+    "video_id": "tX2ojnCPzxw",
+    "label": "positive",
+    "score": 0.5100550651550293
+  }
+]
