@@ -6,7 +6,7 @@ import time
 
 
 
-API_KEY = 'AIzaSyCZsq3Ih_KRcMe2MSGuamJfz6YIdT5JYrs'
+API_KEY = 'MY_KEY'
 youtube = build("youtube", "v3", developerKey=API_KEY)
 
 # Parameters
